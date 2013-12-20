@@ -5,11 +5,6 @@ If you're starting out with Slate, you'll probably want to read these two articl
 * [How to Edit Slate Markdown files](wiki/Markdown-Syntax)
 * [How to Deploy Slate](wiki/Deploying-Slate) — Either to Github Pages, or your own server.
 
-### General
-
-* [Editing Slate's General Appearance](wiki/Custom-Slate-Themes)
-* [Updating Slate to the newest version](wiki/Updating-Slate)
-
 ### The Table of Contents
 
 * [Changing the Logo](wiki/Changing-the-Logo)
@@ -22,4 +17,7 @@ If you're starting out with Slate, you'll probably want to read these two articl
 * [Custom Tab Names](wiki/Customizing-the-Language-Tabs#language-tab-display-names)
 * [Always Visible Code Blocks](wiki/Customizing-the-Language-Tabs#always-visible-code-blocks) — For instance, if you want `json` code blocks to be visible no matter which tab is selected.
 
-### 
+### Advanced
+
+* [Editing Slate's General Appearance](wiki/Custom-Slate-Themes)
+* [Updating Slate to the newest version](wiki/Updating-Slate)
