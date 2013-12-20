@@ -18,7 +18,7 @@ When the "ruby" tab is selected, only the Ruby code will show, and when the "pyt
 
 To edit the tabs, edit the `language-tabs` list at the top of `index.md`.
 
-### Hiding the Language Tabs
+### Disabling the Language Tabs
 
 If you don't want to use the language tabs, just delete the entire `languages-tabs` list from `index.md`, and then they'll disappear entirely from the page, making all code blocks always visible.
 
