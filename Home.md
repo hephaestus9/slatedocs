@@ -1,7 +1,8 @@
 ### Getting Started
 
-If you're starting out with Slate, you'll probably want to read these two articles:
+If you're starting out with Slate, you'll probably want to read these articles:
 
+* [Installing Slate](wiki/Installing-Slate)
 * [How to Edit Slate Markdown files](wiki/Markdown-Syntax)
 * [How to Deploy Slate](wiki/Deploying-Slate) — Either to Github Pages, or your own server.
 
