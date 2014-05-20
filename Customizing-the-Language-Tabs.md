@@ -5,13 +5,13 @@ The "language tabs" are the tabs that appear in the upper right of Slate. Users 
 In the Markdown file, you can used named code blocks to show the right programming language at the right time. For instance, if your page has `python` and `ruby` tabs, you can put this in your Markdown:
 
 ```markdown
-  ```ruby
-  # This is some Ruby
-  ```
+    ```ruby
+    # This is some Ruby
+    ```
   
-  ```python
-  # This is some Python
-  ```
+    ```python
+    # This is some Python
+    ```
 ```
 
 When the "ruby" tab is selected, only the Ruby code will show, and when the "python" tab is selected, only the Python code will show. It even has syntax highlighting if you give your code block one of the [names supported by Rouge](http://rouge.jayferd.us/demo)!
