@@ -22,3 +22,4 @@ If you're starting out with Slate, you'll probably want to read these articles:
 
 * [Editing Slate's General Appearance](wiki/Custom-Slate-Themes)
 * [Updating Slate to the newest version](wiki/Updating-Slate)
+* [Using Includes](https://github.com/tripit/slate/wiki/Using-Includes)
