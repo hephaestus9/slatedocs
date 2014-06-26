@@ -14,3 +14,7 @@ Done! Your changes should now be live on http://yourusername.github.io/slate, an
 ### Publishing Your Docs to Your Own Server
 
 Instead of using `rake publish`, use `rake build`. Middleman will build your website to the `build` directory of your project, and you can copy those static HTML files to the server of your choice.
+
+### Using Github CNAME
+
+You can use a Github [CNAME](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages) to host with a custom domain. Place the CNAME file in `source` folder and use `rake publish` like normal.
