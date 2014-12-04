@@ -15,6 +15,6 @@ Done! Your changes should now be live on http://yourusername.github.io/slate, an
 
 Instead of using `rake publish`, use `rake build`. Middleman will build your website to the `build` directory of your project, and you can copy those static HTML files to the server of your choice.
 
-### Using Github CNAME
+### Custom Domains with Github
 
-You can use a Github [CNAME](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages) to host with a custom domain. Place the CNAME file in `source` folder and use `rake publish` like normal.
+If you're hosting Slate with Github Pages, setting up a custom domain name is simple! Just follow the instructions [in Github's help center](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/). Note that instead of putting the `CNAME` file in the root directory of your Slate, you should put it in the `source` folder. When Middleman publishes to the `gh-pages` branch, it will copy it to the root folder of that branch.
