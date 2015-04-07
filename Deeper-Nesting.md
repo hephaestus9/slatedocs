@@ -8,7 +8,9 @@ But you probably want to style the levels of nesting differently. You can add a 
 .tocify-subheader {
   .tocify-subheader {
     .tocify-item>a {
-      // Styling here for a level 2 nesting. 
+      // Styling here for a level 2 nesting. For example -> 
+      padding-left: $nav-padding + $nav-indent * 2;
+      font-size: 12px;
     }
   }
 }
