@@ -71,11 +71,10 @@ Postman-Token: 79584588-31d2-e75d-e5aa-6ab2c3abf2d4
 }
 ```
 
-> Make sure to replace `meowmeowmeow` with your API key.
+
 
 The FLYTZE API was developed to allow for easy intagration into a variety of systems. To simplify the process all requests should be directed to one end point [Wall](http://flytzedev-flytzedev1deployment.azurewebsites.net/thewall). This endpoint is referred to as the wall and serves the purpose of validating all traffic. To improve readability all requests and responses are in the JSON format.
 
-`Authorization: meowmeowmeow`
 
 <aside class="notice">
 You should never send the <code>token</code>.
@@ -152,9 +151,6 @@ departureTime | true | the departure date time (UTC)
 *departureFlexibility | false | the plus/minus days the user is flexible for departure
 index | true | the current index to load
 
-<aside class="success">
-Remember — a happy kitten is an authenticated kitten!
-</aside>
 
 # FBO
 
@@ -218,7 +214,7 @@ Read all FBOs
 
 Parameter | Default | Description
 --------- | ------- | -----------
-id | true | the fbo id			
+id | true | the fbo id
 
 ## Create
 
@@ -252,7 +248,7 @@ Parameter | Default | Description
 name | true | the fbo's name
 agreement | true | the url to the fbo's agreement
 *phoneNumber | false | the fbo's phone number	
-*email | false | the fbo's email					
+*email | false | the fbo's email
 
 ## Update
 
@@ -316,7 +312,7 @@ Delete an FBO by ID
 
 Parameter | Default | Description
 --------- | ------- | -----------
-id | true | the fbo id			
+id | true | the fbo id
 
 # Plane
 
@@ -406,7 +402,7 @@ Read a planes information by ID
 
 Parameter | Default | Description
 --------- | ------- | -----------
-id | true | the plane id			
+id | true | the plane id
 
 ## Create
 
