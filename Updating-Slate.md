@@ -6,11 +6,11 @@ Fetch all the branches of that remote into remote-tracking branches, such as `up
 
     git fetch upstream
 
-Make sure that you're on your master branch:
+Make sure that you're on _your_ master branch:
 
     git checkout master
 
-Merge your our updates into your master branch:
+Merge _our_ updates into your master branch:
 
     git merge upstream/master
 
