@@ -16,7 +16,7 @@ For normal text, just type your paragraph on a single line.
 
     This is some paragraph text. Exciting, no?
 
-Make sure the lines above below your paragraph are empty.
+Make sure the lines above and below your paragraph are empty.
 
 ### Code Samples
 
