@@ -28,7 +28,7 @@ For code samples:
 	```
 
 	```python
-	// This is some Python code!
+	# This is some Python code!
 	```
 ```
 
