@@ -17,7 +17,7 @@ These are just a few examples of the people using Slate in the wild:
 * [Market Prophit API Documentation](http://developer.marketprophit.com/)
 * [OAuth.io API Documentation](http://docs.oauth.io/)
 * [Aircall for Developers](http://developer.aircall.io/)
-* [SupportKit API Docs](http://docs.smooch.io/)
+* [Smooch API Docs](http://docs.smooch.io/)
 * [SocialRadar's LocationKit Docs](https://docs.locationkit.io/)
 * [SafetyCulture API Documentation](https://developer.safetyculture.io/)
 * [hosting.de API Documentation](https://www.hosting.de/docs/api/)
