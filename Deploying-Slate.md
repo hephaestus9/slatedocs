@@ -15,7 +15,7 @@ Also, thanks to [X1011](https://github.com/X1011/git-directory-deploy) for the e
 
 ### Publishing Your Docs to Your Own Server
 
-Instead of using `rake publish`, use `rake build`. Middleman will build your website to the `build` directory of your project, and you can copy those static HTML files to the server of your choice.
+You can publish documents to your own server using ```bundle exec middleman build --clean```. Middleman will build your website to the `build` directory of your project, and you can copy those static HTML files to the server of your choice.
 
 Another alternative is to use the [middleman-deploy](https://github.com/middleman-contrib/middleman-deploy) gem. 
 
