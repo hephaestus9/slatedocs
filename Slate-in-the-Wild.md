@@ -29,5 +29,6 @@ These are just a few examples of the people using Slate in the wild:
 * [ActionHeroJS's API Documentation](http://www.actionherojs.com/docs)
 * [Augur API Documentation](http://docs.augur.net)
 * [Pakkelabels.dk API Documentation](https://api.pakkelabels.dk/v2/)
+* [Bareo API Documentation](https://docs.bareo.io)
 
 (Feel free to add your site to this list!)
