@@ -30,5 +30,6 @@ These are just a few examples of the people using Slate in the wild:
 * [Augur API Documentation](http://docs.augur.net)
 * [Pakkelabels.dk API Documentation](https://api.pakkelabels.dk/v2/)
 * [Bareo API Documentation](https://docs.bareo.io)
+* [Wia API Documentation](http://docs.wia.io)
 
 (Feel free to add your site to this list!)
