@@ -31,5 +31,6 @@ These are just a few examples of the people using Slate in the wild:
 * [Pakkelabels.dk API Documentation](https://api.pakkelabels.dk/v2/)
 * [Bareo API Documentation](https://docs.bareo.io)
 * [Wia API Documentation](http://docs.wia.io)
+* [Mailjet API Documentation](http://bit.ly/mailjetAPIdoc)
 
 (Feel free to add your site to this list!)
