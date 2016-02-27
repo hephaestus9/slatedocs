@@ -32,5 +32,6 @@ These are just a few examples of the people using Slate in the wild:
 * [Bareo API Documentation](https://docs.bareo.io)
 * [Wia API Documentation](http://docs.wia.io)
 * [Mailjet API Documentation](http://bit.ly/mailjetAPIdoc)
+* [Ecwid API](https://developers.ecwid.com/api-documentation)
 
 (Feel free to add your site to this list!)
