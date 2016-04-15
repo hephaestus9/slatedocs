@@ -36,5 +36,6 @@ These are just a few examples of the people using Slate in the wild:
 * [Ecwid API](https://developers.ecwid.com/api-documentation)
 * [WhitestormJS API Documentation](http://whitestormjs.xyz/)
 * [Adamo API Documentation](http://www.adamogestionale.it/docs/api/)
+* [Best Buy Developer API Documentation](https://bestbuyapis.github.io/api-documentation/)
 
 (Feel free to add your site to this list!)
