@@ -4,6 +4,7 @@ These are just a few examples of the people using Slate in the wild:
 * [Questionr API Documentation](http://docs.questionr.com)
 * [Drcaban's Build a Quine tutorial](http://drcabana.github.io/build-a-quine/#introduction)
 * [PricePlow API docs](https://www.priceplow.com/api/documentation)
+* [Stamplay API Documentation](http://docs.stamplay.com/)
 * [Emerging Threats API docs](http://apidocs.emergingthreats.net/)
 * [Golazon Developer](http://developer.golazon.com)
 * [RozpisyZapasu API docs](http://www.rozpisyzapasu.cz/dev/api/)
