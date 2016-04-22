@@ -5,6 +5,7 @@ These are just a few examples of the people using Slate in the wild:
 * [Drcaban's Build a Quine tutorial](http://drcabana.github.io/build-a-quine/#introduction)
 * [PricePlow API docs](https://www.priceplow.com/api/documentation)
 * [Stamplay API Documentation](http://docs.stamplay.com/)
+* [MapJam Developer API Documentation](http://mapjam.com/developer/api/)
 * [Emerging Threats API docs](http://apidocs.emergingthreats.net/)
 * [Golazon Developer](http://developer.golazon.com)
 * [RozpisyZapasu API docs](http://www.rozpisyzapasu.cz/dev/api/)
