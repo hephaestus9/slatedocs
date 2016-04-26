@@ -1,5 +1,6 @@
 These are just a few examples of the people using Slate in the wild:
 
+* [Fulcrum API Documentation](http://developer.lucidhq.com) ([Repository](https://github.com/lucidhq/developer-documentation))
 * [Iconfinder API Documentation](http://developer.iconfinder.com)
 * [Questionr API Documentation](http://docs.questionr.com)
 * [Drcaban's Build a Quine tutorial](http://drcabana.github.io/build-a-quine/#introduction)
