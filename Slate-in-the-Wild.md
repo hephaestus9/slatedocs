@@ -42,5 +42,6 @@ These are just a few examples of the people using Slate in the wild:
 * [Best Buy Developer API Documentation](https://bestbuyapis.github.io/api-documentation/)
 * [Commerce.js by Chec Documentation](http://commercejs.com/docs/)
 * [Navitia API Documentation](http://doc.navitia.io/)
+* [TradeGecko API Documentation](http://developer.tradegecko.com)
 
 (Feel free to add your site to this list!)
