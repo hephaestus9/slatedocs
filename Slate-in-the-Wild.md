@@ -43,5 +43,6 @@ These are just a few examples of the people using Slate in the wild:
 * [Commerce.js by Chec Documentation](http://commercejs.com/docs/)
 * [Navitia API Documentation](http://doc.navitia.io/)
 * [TradeGecko API Documentation](http://developer.tradegecko.com)
+* [WooCommerce API Documentation](http://woothemes.github.io/woocommerce-rest-api-docs/)
 
 (Feel free to add your site to this list!)
