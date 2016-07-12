@@ -12,7 +12,7 @@ In the Markdown file, you can use named code blocks to show the right programmin
     # This is some Python
     ```
 
-When the "ruby" tab is selected, only the Ruby code will show, and when the "python" tab is selected, only the Python code will show. It even has syntax highlighting if you give your code block one of the [names supported by Rouge](http://rouge.jayferd.us/demo)!
+When the "ruby" tab is selected, only the Ruby code will show, and when the "python" tab is selected, only the Python code will show. It even has syntax highlighting if you give your code block one of the [names supported by Rouge](http://rouge.jneen.net/)!
 
 To edit the tabs, edit the `language-tabs` list at the top of `index.md`.
 
