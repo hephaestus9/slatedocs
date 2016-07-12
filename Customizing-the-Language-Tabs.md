@@ -22,7 +22,7 @@ If you don't want to use the language tabs, just delete the entire `languages-ta
 
 ### Language Tab Display Names
 
-The language name that you use next to the code blocks must exactly match one of the [Rouge supported languages](http://rouge.jayferd.us/demo). However, sometimes you want the language tab to list something else. For instance, you may want the `shell` language to appear in the language tab as "Curl".
+The language name that you use next to the code blocks must exactly match one of the [Rouge supported languages](http://rouge.jneen.net/). However, sometimes you want the language tab to list something else. For instance, you may want the `shell` language to appear in the language tab as "Curl".
 
 Let's say your language tabs are like this:
 
