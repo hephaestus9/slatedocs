@@ -1,5 +1,6 @@
 These are just a few examples of the people using Slate in the wild:
 
+* [Greenhouse API docs](https://developers.greenhouse.io/harvest.html)
 * [Fulcrum API Documentation](http://developer.lucidhq.com) ([Repository](https://github.com/lucidhq/developer-documentation))
 * [Iconfinder API Documentation](http://developer.iconfinder.com)
 * [Questionr API Documentation](http://docs.questionr.com)
