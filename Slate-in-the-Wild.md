@@ -46,4 +46,5 @@ These are just a few examples of the people using Slate in the wild:
 * [TradeGecko API Documentation](http://developer.tradegecko.com)
 * [WooCommerce API Documentation](http://woothemes.github.io/woocommerce-rest-api-docs/)
 * [Sony Ci API](http://developers.cimediacloud.com)
+
 (Feel free to add your site to this list!)
