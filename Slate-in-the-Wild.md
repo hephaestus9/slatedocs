@@ -1,6 +1,5 @@
 These are just a few examples of the people using Slate in the wild:
 
-* [Greenhouse API docs](https://developers.greenhouse.io/harvest.html)
 * [Fulcrum API Documentation](http://developer.lucidhq.com) ([Repository](https://github.com/lucidhq/developer-documentation))
 * [Iconfinder API Documentation](http://developer.iconfinder.com)
 * [Questionr API Documentation](http://docs.questionr.com)
@@ -40,11 +39,8 @@ These are just a few examples of the people using Slate in the wild:
 * [Ecwid API](https://developers.ecwid.com/api-documentation)
 * [WhitestormJS API Documentation](http://whitestormjs.xyz/)
 * [Adamo API Documentation](http://www.adamogestionale.it/docs/api/)
-* [Best Buy Developer API Documentation](https://bestbuyapis.github.io/api-documentation/)
 * [Commerce.js by Chec Documentation](http://commercejs.com/docs/)
 * [Navitia API Documentation](http://doc.navitia.io/)
 * [TradeGecko API Documentation](http://developer.tradegecko.com)
-* [WooCommerce API Documentation](http://woothemes.github.io/woocommerce-rest-api-docs/)
-* [Sony Ci API](http://developers.cimediacloud.com)
 
 (Feel free to add your site to this list!)
