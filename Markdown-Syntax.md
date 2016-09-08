@@ -34,7 +34,7 @@ For code samples:
 
 Code samples will appear in the dark area to the right of the main text. We recommend positioning code samples right under headers in your markdown file.
 
-For the full list of supported languages, see [rouge](http://rouge.jayferd.us/demo).
+For the full list of supported languages, see [rouge](http://rouge.jneen.net/).
 
 ### Code Annotations
 
