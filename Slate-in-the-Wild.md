@@ -39,8 +39,8 @@ These are just a few examples of the people using Slate in the wild:
 * [Ecwid API](https://developers.ecwid.com/api-documentation)
 * [WhitestormJS API Documentation](http://whitestormjs.xyz/)
 * [Adamo API Documentation](http://www.adamogestionale.it/docs/api/)
-* [Commerce.js by Chec Documentation](http://commercejs.com/docs/)
 * [Navitia API Documentation](http://doc.navitia.io/)
 * [TradeGecko API Documentation](http://developer.tradegecko.com)
+* [Commerce.js by Chec Documentation](http://commercejs.com/docs/api)
 
 (Feel free to add your site to this list!)
