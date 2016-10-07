@@ -7,7 +7,7 @@ https://github.com/wodka/gulp-slate
 #### Node.JS implementation
 https://github.com/jmanek/slate_node
 
-### Another Node.JS implementation
+#### Another Node.JS implementation
 This time using `markdown-it`, `highlightjs`, `node-sass`, `js-yaml` and `ejs` for templating.
 
 https://github.com/mermade/shins
