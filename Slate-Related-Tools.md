@@ -14,4 +14,4 @@ https://github.com/mermade/shins
 
 #### Converting OpenApi / Swagger definitions to Slate-compatible markdown
 
-https:///github.com/mermade/widdershins
+https://github.com/mermade/widdershins
