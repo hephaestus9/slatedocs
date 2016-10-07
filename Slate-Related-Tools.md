@@ -11,3 +11,7 @@ https://github.com/jmanek/slate_node
 > This time using `markdown-it`, `highlightjs`, `node-sass`, `js-yaml` and `ejs` for templating.
 
 https://github.com/mermade/shins
+
+#### Converting OpenApi / Swagger definitions to Slate-compatible markdown
+
+https:///github.com/mermade/widdershins
