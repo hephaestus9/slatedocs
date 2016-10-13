@@ -15,3 +15,8 @@ https://github.com/mermade/shins
 #### Converting OpenApi / Swagger definitions to Slate-compatible markdown
 
 https://github.com/mermade/widdershins
+
+#### Slate::Installer
+https://github.com/kjg/slate-installer
+> A utility to install (or update) Slate into the docs folder of your project.
+
