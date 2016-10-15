@@ -1,4 +1,4 @@
-### Node.JS
+### Node.JS (should work on Windows)
 
 #### Simple Gulp Plugin
 https://github.com/wodka/gulp-slate
@@ -18,6 +18,8 @@ https://github.com/mermade/shins
 #### Converting OpenApi / Swagger definitions to Slate-compatible markdown
 
 https://github.com/mermade/widdershins
+
+### Ruby
 
 #### Slate::Installer
 https://github.com/kjg/slate-installer
