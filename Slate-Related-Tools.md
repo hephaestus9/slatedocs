@@ -10,6 +10,9 @@ https://github.com/jmanek/slate_node
 #### Another Node.JS implementation
 > This time using `markdown-it`, `highlightjs`, `node-sass`, `js-yaml` and `ejs` for templating.
 
+#### Another gulp-based port
+https://github.com/sdelements/node-slate
+
 https://github.com/mermade/shins
 
 #### Converting OpenApi / Swagger definitions to Slate-compatible markdown
