@@ -25,7 +25,7 @@ These are just a few examples of the people using Slate in the wild:
 * [Smooch API Docs](http://docs.smooch.io/)
 * [SocialRadar's LocationKit Docs](https://docs.locationkit.io/)
 * [SafetyCulture API Documentation](https://developer.safetyculture.io/)
-* [hosting.de API Documentation](https://www.hosting.de/docs/api/)
+* [hosting.de API Documentation](https://www.hosting.de/api/)
 * [CheddarGetter API Documentation](http://docs.cheddargetter.com)
 * [Invoiced API](http://invoiced.com/docs/api/)
 * [BlockCypher's API Documentation](http://dev.blockcypher.com)
