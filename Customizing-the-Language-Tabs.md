@@ -31,7 +31,7 @@ Let's say your language tabs are like this:
       - ruby
       - python
 
-You want the "shell" to say "cURL" instead. You can't just change all instances of `shell` to `cURL`, since the [syntax highlighter](http://rouge.jayferd.us/demo) has no idea to highlight `cURL` like a shell script. Instead, just change your `language_tabs` to look like this:
+You want the "shell" to say "cURL" instead. You can't just change all instances of `shell` to `cURL`, since the [syntax highlighter](http://rouge.jneen.net) has no idea to highlight `cURL` like a shell script. Instead, just change your `language_tabs` to look like this:
 
     language_tabs:
       - shell: cURL
