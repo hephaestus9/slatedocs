@@ -43,5 +43,6 @@ These are just a few examples of the people using Slate in the wild:
 * [TradeGecko API Documentation](http://developer.tradegecko.com)
 * [Commerce.js by Chec Documentation](http://commercejs.com/docs/api)
 * [PredictLeads API Documentation](https://predictleads.com/docs)
+* [Reposify API Documentation](https://docs.reposify.com)
 
 (Feel free to add your site to this list!)
