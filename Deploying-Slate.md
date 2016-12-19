@@ -15,9 +15,11 @@ Also, thanks to [X1011](https://github.com/X1011/git-directory-deploy) for the e
 
 ### Publishing Your Docs to Your Own Server
 
-You can publish documents to your own server using ```bundle exec middleman build --clean```. Middleman will build your website to the `build` directory of your project, and you can copy those static HTML files to the server of your choice.
+Do not, I repeat, **do not run Middleman on your production server**. Middleman is not designed to be secure on a public server. It is not designed to load pages quickly. It is *purely* for development.
 
-Another alternative is to use the [middleman-deploy](https://github.com/middleman-contrib/middleman-deploy) gem. 
+You can publish *static* documents to your own server using ```bundle exec middleman build --clean```. Middleman will build your website to the `build` directory of your project, and you can copy those static HTML files to the server of your choice. Since you're just copying static files over, you don't need to run Middleman on your server.
+
+Another alternative is to use the [middleman-deploy](https://github.com/middleman-contrib/middleman-deploy) gem.
 
 ### Custom Domains with Github
 
