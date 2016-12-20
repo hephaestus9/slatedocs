@@ -9,7 +9,6 @@ These are just a few examples of the people using Slate in the wild:
 * [MapJam Developer API Documentation](http://mapjam.com/developer/api/)
 * [Emerging Threats API docs](http://apidocs.emergingthreats.net/)
 * [Golazon Developer](http://developer.golazon.com)
-* [RozpisyZapasu API docs](http://www.rozpisyzapasu.cz/dev/api/)
 * [Codestar Framework Docs](http://codestarframework.com/documentation/)
 * [Buddycloud API](http://buddycloud.com/api)
 * [Crafty Clicks API](https://craftyclicks.co.uk/api/)
