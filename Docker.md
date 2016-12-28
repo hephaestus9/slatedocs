@@ -19,12 +19,14 @@ Some people have had success with Docker, although it is not officially supporte
 
 `docker-compose.yml`
 
-    app:
-      build: .
-      ports:
-        - 4567:4567
-      volumes:
-        - ./source:/usr/src/app/source
+```yaml
+app:
+  build: .
+  ports:
+    - 4567:4567
+  volumes:
+    - ./source:/usr/src/app/source
+```
 
 After the files have been created, you can run Slate with `docker-compose up`.
 
