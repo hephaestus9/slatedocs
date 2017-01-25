@@ -44,5 +44,6 @@ These are just a few examples of the people using Slate in the wild:
 * [PredictLeads API Documentation](https://predictleads.com/docs)
 * [Reposify API Documentation](https://docs.reposify.com)
 * [Scaphold.io API Documentation](https://scaphold.io/docs/)
+* [Clearstream API](https://getclearstream.com/support/api)
 
 (Feel free to add your site to this list!)
