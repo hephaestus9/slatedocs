@@ -45,6 +45,6 @@ These are just a few examples of the people using Slate in the wild:
 * [Reposify API Documentation](https://docs.reposify.com)
 * [Scaphold.io API Documentation](https://scaphold.io/docs/)
 * [Clearstream API](https://getclearstream.com/support/api)
-* [SWITCH.CM API Documentation](https://apidocs.switch.cm)
+* [SWITCH.CM API Documentation](https://apidoc.switch.cm)
 
 (Feel free to add your site to this list!)
