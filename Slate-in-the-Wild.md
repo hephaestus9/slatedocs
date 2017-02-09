@@ -47,5 +47,6 @@ These are just a few examples of the people using Slate in the wild:
 * [Clearstream API](https://getclearstream.com/support/api)
 * [SWITCH.CM API Documentation](https://apidoc.switch.cm)
 * [Mailblast.io API Documentation](https://api-docs.mailblast.io)
+* [Talkus.io Developer Documentation](http://developer.talkus.io)
 
 (Feel free to add your site to this list!)
