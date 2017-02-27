@@ -50,5 +50,6 @@ These are just a few examples of the people using Slate in the wild:
 * [Talkus.io Developer Documentation](http://developer.talkus.io)
 * [Bonsai Developer Documentation](http://docs.bons.ai/)
 * [Hunter Developer Documentation](https://hunter.io/api/docs)
+* [IP Find Documentation](https://ipfind.co/docs/)
 
 (Feel free to add your site to this list!)
