@@ -27,6 +27,10 @@ https://github.com/mpociot/whiteboard
 * https://github.com/buremba/swagger-slate (java / swagger-codegen)
 * https://github.com/regga-ws/swagger-codegen-slate (java / swagger-codegen)
 
+#### Converting RAML definitions to Slate-compatible markdown
+
+* https://github.com/wdullaer/raml2slate
+
 ### Ruby
 
 #### Slate::Installer
