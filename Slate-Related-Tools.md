@@ -22,6 +22,8 @@ https://github.com/mpociot/whiteboard
 
 * https://github.com/mermade/widdershins
 * https://github.com/E96/swagger2slate
+* https://github.com/scrive/openapi2slate
+* https://github.com/lavkumarv/swagger-to-slate
 
 ### Ruby
 
