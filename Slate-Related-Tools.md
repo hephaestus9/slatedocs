@@ -20,10 +20,12 @@ https://github.com/mpociot/whiteboard
 
 #### Converting OpenApi / Swagger definitions to Slate-compatible markdown
 
-* https://github.com/mermade/widdershins
-* https://github.com/E96/swagger2slate
-* https://github.com/scrive/openapi2slate
-* https://github.com/lavkumarv/swagger-to-slate
+* https://github.com/mermade/widdershins (node.js)
+* https://github.com/E96/swagger2slate (PHP)
+* https://github.com/scrive/openapi2slate (node.js)
+* https://github.com/lavkumarv/swagger-to-slate (node.js)
+* https://github.com/buremba/swagger-slate (java / swagger-codegen)
+* https://github.com/regga-ws/swagger-codegen-slate (java / swagger-codegen)
 
 ### Ruby
 
