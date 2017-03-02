@@ -20,8 +20,8 @@ https://github.com/mpociot/whiteboard
 
 #### Converting OpenApi / Swagger definitions to Slate-compatible markdown
 
-https://github.com/mermade/widdershins
-https://github.com/E96/swagger2slate
+* https://github.com/mermade/widdershins
+* https://github.com/E96/swagger2slate
 
 ### Ruby
 
