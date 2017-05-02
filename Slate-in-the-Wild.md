@@ -53,5 +53,6 @@ These are just a few examples of the people using Slate in the wild:
 * [Hunter Developer Documentation](https://hunter.io/api/docs)
 * [IP Find Documentation](https://ipfind.co/docs/)
 * [Zwibbler Documentation](http://zwibbler.com/docs)
+* [Backand Documentation](http://docs.backand.com/)
 
 (Feel free to add your site to this list!)
