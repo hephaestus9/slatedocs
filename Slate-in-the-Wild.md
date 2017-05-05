@@ -56,5 +56,6 @@ These are just a few examples of the people using Slate in the wild:
 * [Backand Documentation](http://docs.backand.com/)
 * [GoCD API Documentation](https://api.gocd.io/current)
 * [GoCD Plugin API Documentation](https://plugin-api.gocd.io/current)
+* [BoldGrid API Documentation](https://boldgrid.com/docs/api)
 
 (Feel free to add your site to this list!)
