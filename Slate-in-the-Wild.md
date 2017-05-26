@@ -58,5 +58,6 @@ These are just a few examples of the people using Slate in the wild:
 * [GoCD Plugin API Documentation](https://plugin-api.gocd.io/current)
 * [BoldGrid API Documentation](https://boldgrid.com/docs/api)
 * [Monzo API Documentation](https://monzo.com/docs/)
+* [Bets API Documentation](http://betsapi.com/api-doc/index.html)
 
 (Feel free to add your site to this list!)
