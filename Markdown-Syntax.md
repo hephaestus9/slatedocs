@@ -48,33 +48,31 @@ Code annotations are essentially the same thing as paragraphs, but they'll appea
 
 In order to correctly format the code in the right column with the text in the center column the code snippet should go first, e.g.
 ```
-# My Title
+    # My Title
 
-## My Subtitle
+    ## My Subtitle
 
-\```csharp
-///Code snippet
-\```
+    ```csharp
+        Code snippet
+    ```
 
-\```java
-Code snippet
-\```
+    ```java
+        Code snippet
+    ```
 
-\```php
-<?php
-//Code snippet
-?>
-\```
+    ```php
+    <?php
+        Code snippet
+    ?>
+    ```
 
-\```ruby
-#Code snippet
-\```
+    ```ruby
+    #Code snippet
+    ```
 
-Whatever that goes in the center column. Lorem ipsum
+    Whatever that goes in the center column. Lorem ipsum
 ```
 Putting the content for the center column first and the code snippet afterwards will cause the code snippet to be aligned with the last line of the center column, if the code snippet goes first, then the code is aligned with the first line of the center column.
-
-Please note for this example I am escaping \``` because otherwise the comment will not display correctly
 
 ### Tables
 
