@@ -59,5 +59,6 @@ These are just a few examples of the people using Slate in the wild:
 * [BoldGrid API Documentation](https://boldgrid.com/docs/api)
 * [Monzo API Documentation](https://monzo.com/docs/)
 * [Bets API Documentation](http://betsapi.com/api-doc/index.html)
+* [ipapi.co location API Documentation](http://ipapi.co/api/)
 
 (Feel free to add your site to this list!)
