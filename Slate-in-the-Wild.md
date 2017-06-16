@@ -61,5 +61,6 @@ These are just a few examples of the people using Slate in the wild:
 * [Bets API Documentation](http://betsapi.com/api-doc/index.html)
 * [ipapi.co location API Documentation](http://ipapi.co/api/)
 * [TaxJar Sales Tax API Documentation](https://developers.taxjar.com/api/reference/)
+* [Skyscanner API Documentation](https://skyscanner.github.io/slate/)
 
 (Feel free to add your site to this list!)
