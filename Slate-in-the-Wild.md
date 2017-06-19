@@ -63,5 +63,6 @@ These are just a few examples of the people using Slate in the wild:
 * [TaxJar Sales Tax API Documentation](https://developers.taxjar.com/api/reference/)
 * [Skyscanner API Documentation](https://skyscanner.github.io/slate/)
 * [Hetzner Online Robot API Documentation](https://robot.your-server.de/doc/webservice/en.html)
+* [Zoom Video Communications](https://zoom.github.io/api/)
 
 (Feel free to add your site to this list!)
