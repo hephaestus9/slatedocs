@@ -1,6 +1,6 @@
 Add the remote, call it `upstream`:
 
-    git remote add upstream git@github.com:tripit/slate.git
+    git remote add upstream git@github.com:lord/slate.git
 
 Fetch all the branches of that remote into remote-tracking branches, such as `upstream/master`:
 
