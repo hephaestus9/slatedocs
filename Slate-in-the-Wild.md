@@ -51,7 +51,7 @@ These are just a few examples of the people using Slate in the wild:
 * [Mailblast.io API Documentation](https://api-docs.mailblast.io)
 * [Talkus.io Developer Documentation](http://developer.talkus.io)
 * [Bonsai Developer Documentation](http://docs.bons.ai/)
-* [Hunter Developer Documentation](https://hunter.io/api/docs)
+* [Hunter Developer Documentation](https://hunter.io/api/docs)https://quaderno.io/docs/api/
 * [IP Find Documentation](https://ipfind.co/docs/)
 * [Zwibbler Documentation](http://zwibbler.com/docs)
 * [Backand Documentation](http://docs.backand.com/)
@@ -66,5 +66,6 @@ These are just a few examples of the people using Slate in the wild:
 * [Hetzner Online Robot API Documentation](https://robot.your-server.de/doc/webservice/en.html)
 * [Zoom Video Communications](https://zoom.github.io/api/)
 * [Channel API Documentation](https://docs.getchannel.co/)
+* [Quaderno API Documentation](https://quaderno.io/docs/api/)
 
 (Feel free to add your site to this list!)
