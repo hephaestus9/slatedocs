@@ -22,4 +22,4 @@ Publish the new changes to Github pages:
 
     ./deploy.sh
 
-(Thanks to [Mark Longair on StackOverflow](http://stackoverflow.com/questions/7244321/how-to-update-github-forked-repository) for the upsteam explanation.)
+(Thanks to [Mark Longair on StackOverflow](http://stackoverflow.com/questions/7244321/how-to-update-github-forked-repository) for the upstream explanation.)
