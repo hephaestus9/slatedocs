@@ -38,6 +38,18 @@ You'll need to add styling for `.toc-list-h3 in the file `source/stylesheets/scr
   background-color: $nav-subitem-bg;
 }
 ```
+
+Additionally, you'll also likely want to make another change in this same file to keep code examples on the same level as their appropriate explanations. This change needed would be located on line 377 at the time of writing.
+```CSS
+// the div is the tocify hidden div for placeholding stuff
+& > h1,
+& > h2,
+& > h3,
+& > div {
+  clear: both;
+}
+```
+
 You'll also need to make a small change in `source/layouts/layout.erb`. The change needed would be located on line 80 at the time of writing. 
 ```ruby
 <% if h2[:children].length > 0 %>
