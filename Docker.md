@@ -7,7 +7,7 @@ Some people have had success with Docker, although it is not officially supporte
 
 #### Dockerfile :
 
-    FROM ruby:2.2.6-onbuild
+    FROM ruby:2.3.1-onbuild
     MAINTAINER Adrian Perez <adrian@adrianperez.org>
     VOLUME /usr/src/app/source
     EXPOSE 4567
