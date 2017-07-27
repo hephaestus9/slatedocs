@@ -67,5 +67,6 @@ These are just a few examples of the people using Slate in the wild:
 * [Zoom Video Communications](https://zoom.github.io/api/)
 * [Channel API Documentation](https://docs.getchannel.co/)
 * [Quaderno API Documentation](https://quaderno.io/docs/api/)
+* [Hiveage API Documentation](https://www.hiveage.com/api/)
 
 (Feel free to add your site to this list!)
