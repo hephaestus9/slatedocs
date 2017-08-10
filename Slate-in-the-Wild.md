@@ -68,5 +68,6 @@ These are just a few examples of the people using Slate in the wild:
 * [Channel API Documentation](https://docs.getchannel.co/)
 * [Quaderno API Documentation](https://quaderno.io/docs/api/)
 * [Hiveage API Documentation](https://www.hiveage.com/api/)
+* [OneMap 2.0 API Documentation](https:/docs.onemap.sg/)
 
 (Feel free to add your site to this list!)
