@@ -1,5 +1,6 @@
 These are just a few examples of the people using Slate in the wild:
 
+* [ShareActor API Documentation](http://docs.shareactor.io/)
 * [Flex.io Docs](https://www.flex.io/docs) ([Getting Started](https://www.flex.io/docs/getting-started/), [API](https://www.flex.io/docs/api/), [Web App](https://www.flex.io/docs/web-app/)) + [Repos (docs-)](https://github.com/flexiodata)
 * [Testpress API Documentation](http://developer.testpress.in)([Repository](https://github.com/testpress/developer.testpress.in))
 * [Fulcrum API Documentation](http://developer.lucidhq.com) ([Repository](https://github.com/lucidhq/developer-documentation))
