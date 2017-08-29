@@ -4,12 +4,14 @@ Slate spits out a bunch of static HTML, Javascript, and CSS, so it's pretty triv
 
 Publishing your API documentation couldn't be more simple.
 
- 1. Make sure your `origin` is a Slate fork in your own account, not our original repo.
+ 1. Make sure your `origin` is a Slate fork in your own account, not our original repo: `git remote show origin`.
  1. Commit your changes to the markdown source: `git commit -a -m "Update index.md"`
  2. Push the *markdown source* changes to GitHub: `git push`
  3. Run `./deploy.sh`
 
-Done! Your changes should now be live on http://yourusername.github.io/slate, and the main branch should be updated with your edited markdown. Note that if this is your first time publishing Slate, it can sometimes take ten minutes or so before your content is available online.
+NOTE: Using the git way, you should not make changes to your repo on github.com for example.
+
+Done! Your changes should now be live on http://yourusername.github.io/slate, and the main branch should be updated with your edited markdown. Note that if this is your first time publishing Slate, it can sometimes take ten minutes or so before your content is available online. It can also take a moment even if it's not the first time. 
 
 Also, thanks to [X1011](https://github.com/X1011/git-directory-deploy) for the excellent deploy script.
 
