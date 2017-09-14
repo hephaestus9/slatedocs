@@ -44,7 +44,7 @@ For code annotations:
 
 Code annotations are essentially the same thing as paragraphs, but they'll appear in the area to the right along with your code samples.
 
-### Formatting code annotations (left column) with its explanation (center column)
+### Formatting code annotations (right column) with its explanation (center column)
 
 In order to correctly format the code in the right column with the text in the center column the code snippet should go first, e.g.
 ```
