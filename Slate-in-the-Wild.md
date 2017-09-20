@@ -70,5 +70,6 @@ These are just a few examples of the people using Slate in the wild:
 * [Hiveage API Documentation](https://www.hiveage.com/api/)
 * [OneMap 2.0 API Documentation](https://docs.onemap.sg/)
 * [SchedJoules' Event Discovery API](https://schedjoules.github.io/event-discovery-api/#introduction)
+* [Hetzner Robot Webservice (API)](https://robot.your-server.de/doc/webservice/en.html#preface)
 
 (Feel free to add your site to this list!)
