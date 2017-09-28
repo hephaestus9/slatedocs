@@ -4,6 +4,19 @@ Some people have had success with Docker, although it is not officially supporte
 
     .git
     source
+#### Dockerfile-Alphine:
+
+    FROM ruby:2.3-alpine
+    COPY . /usr/src/app
+    VOLUME /usr/src/app
+    EXPOSE 4567
+
+    WORKDIR /usr/src/app
+
+    RUN apk add --update nodejs g++ make
+    RUN bundle install
+
+    CMD ["bundle", "exec", "middleman", "server", "--watcher-force-polling"]
 
 #### Dockerfile :
 
