@@ -72,5 +72,6 @@ These are just a few examples of the people using Slate in the wild:
 * [SchedJoules' Event Discovery API](https://schedjoules.github.io/event-discovery-api/#introduction)
 * [Hetzner Robot Webservice (API)](https://robot.your-server.de/doc/webservice/en.html#preface)
 * [Write.as API Documentation](https://developer.write.as/docs/api/)
+* [Bcoin API Documentation](http://bcoin.io/api-docs/index.html#introduction)
 
 (Feel free to add your site to this list!)
