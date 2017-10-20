@@ -74,5 +74,6 @@ These are just a few examples of the people using Slate in the wild:
 * [Write.as API Documentation](https://developer.write.as/docs/api/)
 * [Bcoin API Documentation](http://bcoin.io/api-docs/index.html#introduction)
 * [Liftlock Studios VSCode Extension to convert XML Comments to Slate markdown](https://marketplace.visualstudio.com/items?itemName=LiftlockStudios.cleanslate)
+* [brainCloud Backend-as-a-Service API](http://getbraincloud.com/apiref)
 
 (Feel free to add your site to this list!)
