@@ -73,5 +73,6 @@ These are just a few examples of the people using Slate in the wild:
 * [Hetzner Robot Webservice (API)](https://robot.your-server.de/doc/webservice/en.html#preface)
 * [Write.as API Documentation](https://developer.write.as/docs/api/)
 * [Bcoin API Documentation](http://bcoin.io/api-docs/index.html#introduction)
+* [Liftlock Studios VSCode Extension to convert XML Comments to Slate markdown](https://marketplace.visualstudio.com/items?itemName=LiftlockStudios.cleanslate)
 
 (Feel free to add your site to this list!)
