@@ -31,9 +31,12 @@ https://github.com/mpociot/whiteboard
 
 * https://github.com/wdullaer/raml2slate
 
+#### Converting XML comments to Slate markdown
+
+* https://marketplace.visualstudio.com/items?itemName=LiftlockStudios.cleanslate
+
 ### Ruby
 
 #### Slate::Installer
 https://github.com/kjg/slate-installer
 > A utility to install (or update) Slate into the docs folder of your project.
-
