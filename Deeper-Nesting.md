@@ -19,7 +19,7 @@ You'll need to add styling for `.toc-list-h3` in the file `source/stylesheets/sc
 }
 ```
 
-Additionally, you'll also likely want to make another change in this same file to keep code examples on the same level as their appropriate explanations. This change needed would be located on line 377 at the time of writing.
+Additionally, you'll also likely want to make another change in this same file to keep code examples on the same level as their appropriate explanations. This change needed would be located on line 350 at the time of writing.
 ```CSS
 // the div is the tocify hidden div for placeholding stuff
 & > h1,
