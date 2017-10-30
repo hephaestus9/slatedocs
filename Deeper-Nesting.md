@@ -9,7 +9,11 @@ If you are using the static table of content (not tocify), you'll be making chan
 
 Once you've installed slate open the following file `source/javascripts/all_nosearch.js` 
 
-In the function, you can add more selectors. So if you want two levels of nesting the section with selectors should look like this: `'.toc-link', '.toc-list-h2, .toc-list-h3'`. 
+In the function, you can add more selectors. So if you want two levels of nesting the section with selectors should look like this:
+
+```js
+  loadToc($('#toc'), '.toc-link', '.toc-list-h2, .toc-list-h3', 10);
+``` 
 
 You'll need to add styling for `.toc-list-h3` in the file `source/stylesheets/screen.css.scss` The styling is located on line 178 at the time of writing. 
 ```CSS
