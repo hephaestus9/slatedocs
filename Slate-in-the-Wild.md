@@ -77,5 +77,6 @@ These are just a few examples of the people using Slate in the wild:
 * [Liftlock Studios VSCode Extension to convert XML Comments to Slate markdown](https://marketplace.visualstudio.com/items?itemName=LiftlockStudios.cleanslate)
 * [brainCloud Backend-as-a-Service API](http://getbraincloud.com/apiref)
 * [SMSAPI Documentation](https://docs.smsapi.com/)
+* [Nusii Documentation](http://developer.nusii.com/)
 
 (Feel free to add your site to this list!)
