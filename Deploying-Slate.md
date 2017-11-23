@@ -26,3 +26,5 @@ Another alternative is to use the [middleman-deploy](https://github.com/middlema
 ### Custom Domains with GitHub
 
 If you're hosting Slate with GitHub Pages, setting up a custom domain name is simple! Just follow the instructions [in GitHub's help center](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/). Note that instead of putting the `CNAME` file in the root directory of your Slate, you should put it in the `source` folder. When Middleman publishes to the `gh-pages` branch, it will copy it to the root folder of that branch.
+
+Unfortunately, the deploy system will overwrite any custom domain name you've set within GitHub settings. This isn't something we can easily fix — it's a quirk with how GitHub handles custom domains. So until they fix it, use the `CNAME` file instead!
