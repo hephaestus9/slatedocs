@@ -21,6 +21,11 @@ You'll need to add styling for `.toc-list-h3` in the file `source/stylesheets/sc
   display: none;
   background-color: $nav-subitem-bg;
 }
+
+.toc-h3 {
+  padding-left: $nav-padding + $nav-padding + $nav-indent;
+  font-size: 12px;
+}
 ```
 
 Additionally, you'll also likely want to make another change in this same file to keep code examples on the same level as their appropriate explanations. This change needed would be located on line 350 at the time of writing.
