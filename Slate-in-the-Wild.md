@@ -78,5 +78,7 @@ These are just a few examples of the people using Slate in the wild:
 * [brainCloud Backend-as-a-Service API](http://getbraincloud.com/apiref)
 * [SMSAPI Documentation](https://docs.smsapi.com/)
 * [Nusii Documentation](http://developer.nusii.com/)
+* [Todoist documentation by Doist](https://developer.todoist.com)
+* [Twist documentation by Doist](https://developer.twistapp.com)
 
 (Feel free to add your site to this list!)
