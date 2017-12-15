@@ -80,5 +80,6 @@ These are just a few examples of the people using Slate in the wild:
 * [Nusii Documentation](http://developer.nusii.com/)
 * [Todoist documentation by Doist](https://developer.todoist.com)
 * [Twist documentation by Doist](https://developer.twistapp.com)
+* [Hyperledger Iroha API documentation](http://hyperledger.github.io/iroha-api)
 
 (Feel free to add your site to this list!)
