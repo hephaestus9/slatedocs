@@ -82,5 +82,6 @@ These are just a few examples of the people using Slate in the wild:
 * [Twist documentation by Doist](https://developer.twistapp.com)
 * [Hyperledger Iroha API documentation](http://hyperledger.github.io/iroha-api)
 * [MSCL Quick Start Guide by LORD Sensing](http://lord-microstrain.github.io/MSCL/Documentation/Getting%20Started/index.html)
+* [Chronicity IO documentation](http://chronicity.io/)
 
 (Feel free to add your site to this list!)
