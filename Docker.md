@@ -1,6 +1,6 @@
 Some people have had success with Docker, although it is not officially supported. You'll need to create three files in your Slate directory:
 
-### Ruby 2.3
+## Ruby 2.3
 
 #### .dockerignore :
 
@@ -40,7 +40,7 @@ To build a local static copy of your API documentation into the `build` director
 
 *Note:* If you've changed the name of the parent folder, change `slate_app` to the new name in this format `<foldername>_app`. Alternatively, find the exact name of your docker image by running `docker ps`.
 
-### Ruby 2.3 Alpine
+## Ruby 2.3 Alpine
 
 #### Dockerfile-Alpine:
 
@@ -67,7 +67,7 @@ app:
     - .:/usr/src/app
 ```
 
-### Alternative approach with Ruby 2.5 Alpine
+## Alternative approach with Ruby 2.5 Alpine
 
 From: https://github.com/cashlink/apidoc
 
