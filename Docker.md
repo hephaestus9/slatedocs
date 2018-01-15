@@ -71,7 +71,7 @@ app:
 
 From: https://github.com/cashlink/apidoc
 
-In this setup we don't clone the slate repository and make our changes directly in its `source` directory. Instead we have a separate `source` directory somewhere in our product, let's call it `doc-source`. The slate repository lives only in the Docker image. Files in `doc-source` overwrite the files in the slate `source` directory.
+In this setup we don't clone the slate repository and make our changes directly in its `source` directory. Instead we have a separate source directory somewhere in our app's repository, let's call it `doc-source`. The slate repository lives only in the Docker image. Files in `doc-source` overwrite the files in the slate `source` directory.
 
 #### Dockerfile
 
