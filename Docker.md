@@ -1,5 +1,7 @@
 Some people have had success with Docker, although it is not officially supported. You'll need to create three files in your Slate directory:
 
+### Ruby 2.3
+
 #### .dockerignore :
 
     .git
@@ -38,7 +40,9 @@ To build a local static copy of your API documentation into the `build` director
 
 *Note:* If you've changed the name of the parent folder, change `slate_app` to the new name in this format `<foldername>_app`. Alternatively, find the exact name of your docker image by running `docker ps`.
 
-#### Dockerfile-Alphine:
+### Ruby 2.3 Alpine
+
+#### Dockerfile-Alpine:
 
     FROM ruby:2.3-alpine
     COPY . /usr/src/app
@@ -62,3 +66,56 @@ app:
   volumes:
     - .:/usr/src/app
 ```
+
+### Alternative approach with Ruby 2.5 Alpine
+
+From: https://github.com/cashlink/apidoc
+
+In this setup we don't clone the slate repository and make our changes directly in its `source` directory. Instead we have a separate `source` directory somewhere in our product, let's call it `doc-source`. The slate repository lives only in the Docker image. Files in `doc-source` overwrite the files in the slate `source` directory.
+
+#### Dockerfile
+
+```docker
+FROM ruby:2.5-alpine
+EXPOSE 4567
+
+RUN apk update \
+ && apk add coreutils git make g++ nodejs
+
+RUN git clone https://github.com/lord/slate && mv /slate/source /slate/source_orig
+
+RUN cd /slate && bundle install
+
+VOLUME /slate/source
+VOLUME /slate/build
+
+CMD cd /slate && cp -nr source_orig/* source && exec bundle exec middleman server --watcher-force-polling
+```
+
+#### doc-source/.gitignore
+
+```
+fonts
+images
+includes
+javascripts
+layouts
+stylesheets
+```
+
+Note that you will have to use `git add -f` if you want to add overwrite e.g. `images/logo.png`.
+
+#### Run server
+
+```
+docker run -p 4567:4567 -v /path/to/doc-source:/slate/source -v /path/to/build:/slate/build <image>
+```
+
+#### Build
+
+```
+docker run -v /path/to/doc-source:/slate/source -v /path/to/build:/slate/build <image> \
+  sh -c 'cd /slate && cp -nr source_orig/* source && exec bundle exec middleman build'
+```
+
+This will build the site into the `/path/to/build` directory.
