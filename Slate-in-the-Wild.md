@@ -1,5 +1,6 @@
 These are just a few examples of the people using Slate in the wild:
 
+* [TeloInterview](https://developers.telointerview.com)
 * [SoftBank Robotics ChatBot API](https://softbankroboticstraining.github.io/pepper-chatbot-api/)
 * [SwiftDil AML, KYC, ID Verification and Screening API](https://www.swiftdil.com/docs/api/)
 * [Visma e-conomic API](https://restdocs.e-conomic.com/)
