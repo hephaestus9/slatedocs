@@ -88,5 +88,6 @@ These are just a few examples of the people using Slate in the wild:
 * [Chronicity IO documentation](http://chronicity.io/)
 * [Moltin API Reference](https://docs.moltin.com/)
 * [ONTRAPORT API Documentation](http://api.ontraport.com/doc/)
+* [Smartsheet API](http://smartsheet-platform.github.io/api-docs/)
 
 (Feel free to add your site to this list!)
