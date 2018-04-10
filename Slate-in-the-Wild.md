@@ -75,7 +75,7 @@ These are just a few examples of the people using Slate in the wild:
 * [OneMap 2.0 API Documentation](https://docs.onemap.sg/)
 * [SchedJoules' Event Discovery API](https://schedjoules.github.io/event-discovery-api/#introduction)
 * [Hetzner Robot Webservice (API)](https://robot.your-server.de/doc/webservice/en.html#preface)
-* [Write.as API Documentation](https://developer.write.as/docs/api/)
+* [Write.as API Documentation](https://developers.write.as/docs/api/)
 * [Bcoin API Documentation](http://bcoin.io/api-docs/index.html#introduction)
 * [Liftlock Studios VSCode Extension to convert XML Comments to Slate markdown](https://marketplace.visualstudio.com/items?itemName=LiftlockStudios.cleanslate)
 * [brainCloud Backend-as-a-Service API](http://getbraincloud.com/apiref)
