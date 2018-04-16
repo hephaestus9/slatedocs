@@ -1,5 +1,5 @@
 These are just a few examples of the people using Slate in the wild:
-
+* [Safaricom](https://developer.safaricom.co.ke/docs)
 * [SimpleMDM](https://simplemdm.com/docs/api)
 * [TeloInterview](https://developers.telointerview.com)
 * [SoftBank Robotics ChatBot API](https://softbankroboticstraining.github.io/pepper-chatbot-api/)
