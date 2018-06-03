@@ -1,4 +1,7 @@
 These are just a few examples of the people using Slate in the wild:
+
+* [Flute Mail API](https://docs.flutemail.com/)
+* [SimpleMDM](https://simplemdm.com/docs/api)
 * [Safaricom](https://developer.safaricom.co.ke/docs)
 * [SimpleMDM](https://simplemdm.com/docs/api)
 * [TeloInterview](https://developers.telointerview.com)
