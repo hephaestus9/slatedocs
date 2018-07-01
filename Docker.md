@@ -84,7 +84,7 @@ RUN apk update \
 
 RUN git clone https://github.com/lord/slate /slate/source_orig
 
-RUN cd /slate && bundle install
+RUN cd /slate/source_orig && bundle install
 
 VOLUME /slate/source
 VOLUME /slate/build
