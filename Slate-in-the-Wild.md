@@ -93,5 +93,6 @@ These are just a few examples of the people using Slate in the wild:
 * [ONTRAPORT API Documentation](http://api.ontraport.com/doc/)
 * [Smartsheet API](http://smartsheet-platform.github.io/api-docs/)
 * [ShopRunBack Documentation](https://shoprunback.github.io/documentation/)
+* [OBTO(SOFOS) Documentation](https://docs.obto.co/)
 
 (Feel free to add your site to this list!)
