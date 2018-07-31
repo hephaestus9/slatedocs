@@ -39,7 +39,7 @@ Additionally, you'll also likely want to make another change in this same file t
 }
 ```
 
-You'll also need to make a small change in `source/layouts/layout.erb`. The change needed would be located on line 80 at the time of writing. 
+You'll also need to make a small change in `source/layouts/layout.erb`. The change needed would be located on line 80 at the time of writing. Add the following, immediately below the line ending in `<%= h2[:content] %></a>`:
 ```ruby
 <% if h2[:children].length > 0 %>
   <ul class="toc-list-h3">
