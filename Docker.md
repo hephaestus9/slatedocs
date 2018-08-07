@@ -1,6 +1,6 @@
 Some people have had success with Docker, although it is not officially supported. You'll need to create three files in your Slate directory:
 
-## Ruby 2.3
+## Ruby 2.5.1
 
 #### .dockerignore :
 
@@ -9,7 +9,7 @@ Some people have had success with Docker, although it is not officially supporte
 
 #### Dockerfile :
 
-    FROM ruby:2.3.1-onbuild
+    FROM ruby:2.5.1
     MAINTAINER Adrian Perez <adrian@adrianperez.org>
     VOLUME /usr/src/app/source
     EXPOSE 4567
