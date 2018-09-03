@@ -1,3 +1,7 @@
+### Pure Browser Implementation
+https://jmanek.github.io/slate_clone
+> Static Slate docs, no building required. Just clone
+
 ### Node.JS (should work on Windows)
 
 #### Simple Gulp Plugin
@@ -38,5 +42,5 @@ https://github.com/mpociot/whiteboard
 ### Ruby
 
 #### Slate::Installer
-https://github.com/kjg/slate-installer
+https://github.com/kjg/slate-installer 
 > A utility to install (or update) Slate into the docs folder of your project.
