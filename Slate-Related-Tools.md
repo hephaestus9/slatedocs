@@ -1,5 +1,5 @@
 ### Pure Browser Implementation
-https://jmanek.github.io/slate_clone
+https://github.com/jmanek/slate_clone
 > Static Slate docs, no building required. Just clone
 
 ### Node.JS (should work on Windows)
