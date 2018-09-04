@@ -1,6 +1,6 @@
 ### Pure Browser Implementation
 https://github.com/jmanek/slate_clone
-> Slate docs powered by the browser, just clone
+> Slate docs built by the browser, just clone
 
 ### Node.JS (should work on Windows)
 
