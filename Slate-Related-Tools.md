@@ -1,7 +1,3 @@
-### Pure Browser Implementation
-https://github.com/jmanek/slate_clone
-> Slate docs built by the browser, just clone
-
 ### Node.JS (should work on Windows)
 
 #### Simple Gulp Plugin
@@ -10,6 +6,7 @@ https://github.com/wodka/gulp-slate
 
 #### Node.JS implementation
 https://github.com/jmanek/slate_node
+> A port of the documentation generator Slate to node.js, that can optionally be built in the browser.
 
 #### Another Node.JS implementation
 > This time using `markdown-it`, `highlightjs`, `node-sass`, `js-yaml` and `ejs` for templating. Compatible with Slate v2.0 (static TOC etc)
