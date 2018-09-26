@@ -93,7 +93,7 @@ If you don't like that syntax, feel free to use normal html `<table>`s directly 
 
     This text is **bold**, this is *italic*, this is an `inline code block`.
 
-You can use those formatting rules in code annotations, tables, paragraphs, lists, wherever.
+You can use those formatting rules in tables, paragraphs, lists, wherever, although they'll appear verbatim in code blocks.
 
 ### Lists
 
