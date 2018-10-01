@@ -95,5 +95,6 @@ These are just a few examples of the people using Slate in the wild:
 * [ShopRunBack Documentation](https://shoprunback.github.io/documentation/)
 * [OBTO(SOFOS) Documentation](https://docs.obto.co/)
 * [Smart Flow Documentation](http://veterinarium.github.io/)
+* Mason Configuration Glossary (example: [D450A](http://docs.bymason.com/c/25/msm8953_x57_l8/index.html#d450a-configuration-glossary))
 
 (Feel free to add your site to this list!)
