@@ -24,6 +24,27 @@ vagrant up
 
 You can now see the docs at http://localhost:4567. Whoa! That was fast!
 
+### Possible issues
+
+If you struggling from error message like in ([#1003](https://github.com/lord/slate/issues/1003))
+```
+...
+autodetect: Could not find a JavaScript runtime
+...
+```
+
+Then you need to install JavaScript runtime for your machine / docker environment. Follow the instructions on  [NodeJS](https://nodejs.org/en/download) website. For example:
+
+Linux:
+```
+apt-get install nodejs
+```
+
+macOS (for [Brew](https://brew.sh/) users):
+```
+brew install node
+```
+
 ### What Now?
 
 The next step is to [learn how to edit `source/index.md` to change the content of your docs](Markdown-Syntax).
