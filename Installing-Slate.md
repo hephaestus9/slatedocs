@@ -45,6 +45,8 @@ macOS (for [Brew](https://brew.sh/) users):
 brew install node
 ```
 
+StackOverflow question: [ExecJS and could not find a JavaScript runtime](https://stackoverflow.com/questions/6282307/execjs-and-could-not-find-a-javascript-runtime)
+
 ### What Now?
 
 The next step is to [learn how to edit `source/index.md` to change the content of your docs](Markdown-Syntax).
