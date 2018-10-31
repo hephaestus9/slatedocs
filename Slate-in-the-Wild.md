@@ -97,5 +97,6 @@ These are just a few examples of the people using Slate in the wild:
 * [Smart Flow Documentation](http://veterinarium.github.io/)
 * Mason Configuration Glossary (example: [D450A](http://docs.bymason.com/c/25/msm8953_x57_l8/index.html#d450a-configuration-glossary))
 * [Deep.BI](http://docs.deep.bi/)
+* [Cartão de TODOS](https://developer.cartaodetodos.com.br/)
 
 (Feel free to add your site to this list!)
