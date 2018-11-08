@@ -45,7 +45,7 @@ You'll also need to make a small change in `source/layouts/layout.erb`. The chan
   <ul class="toc-list-h3">
     <% h2[:children].each do |h3| %>
       <li>
-        <a href="#<%= h3[:id] %>" class="toc-h3 toc-link" data-title="<%= h1[:content] %>"><%= h3[:content] %></a>
+        <a href="#<%= h3[:id] %>" class="toc-h3 toc-link" data-title="<%= h3[:content] %>"><%= h3[:content] %></a>
       </li>
     <% end %>
   </ul>
