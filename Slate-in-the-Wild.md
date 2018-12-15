@@ -98,5 +98,6 @@ These are just a few examples of the people using Slate in the wild:
 * Mason Configuration Glossary (example: [D450A](http://docs.bymason.com/c/25/msm8953_x57_l8/index.html#d450a-configuration-glossary))
 * [Deep.BI](http://docs.deep.bi/)
 * [Cartão de TODOS](https://developer.cartaodetodos.com.br/)
+* [OnVoard API](https://api-docs.onvoard.com/)
 
 (Feel free to add your site to this list!)
