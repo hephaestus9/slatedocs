@@ -14,11 +14,11 @@ In the Markdown file, you can use named code blocks to show the right programmin
 
 When the "ruby" tab is selected, only the Ruby code will show, and when the "python" tab is selected, only the Python code will show. It even has syntax highlighting if you give your code block one of the [names supported by Rouge](http://rouge.jneen.net/)!
 
-To edit the tabs, edit the `language-tabs` list at the top of `index.md`.
+To edit the tabs, edit the `language_tabs` list at the top of `index.md`.
 
 ### Disabling the Language Tabs
 
-If you don't want to use the language tabs, just delete the entire `languages-tabs` list from `index.md`, and then they'll disappear entirely from the page, making all code blocks always visible.
+If you don't want to use the language tabs, just delete the entire `language_tabs` list from `index.md`, and then they'll disappear entirely from the page, making all code blocks always visible.
 
 ### Language Tab Display Names
 
@@ -47,7 +47,7 @@ You continue using `shell` next to your code blocks, but the language tab now re
 
 ### Always-visible Code Blocks
 
-If a language is not found in `language-tabs`, we'll *always* display it, no matter which language tab is selected. For instance, if your language tabs look like this:
+If a language is not found in `language_tabs`, we'll *always* display it, no matter which language tab is selected. For instance, if your language tabs look like this:
 
     language_tabs:
       - shell
