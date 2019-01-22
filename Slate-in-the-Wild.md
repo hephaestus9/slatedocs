@@ -1,5 +1,6 @@
 These are just a few examples of the people using Slate in the wild:
 
+* [Yoti Developer Documentation](https://www.yoti.com/developers/documentation/#introduction)
 * [Flute Mail API](https://docs.flutemail.com/)
 * [SimpleMDM](https://simplemdm.com/docs/api)
 * [Safaricom](https://developer.safaricom.co.ke/docs)
