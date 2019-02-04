@@ -100,5 +100,7 @@ These are just a few examples of the people using Slate in the wild:
 * [Deep.BI](http://docs.deep.bi/)
 * [Cartão de TODOS](https://developer.cartaodetodos.com.br/)
 * [OnVoard API](https://api-docs.onvoard.com/)
+* [Movem API](https://docs.movem.co.uk/)
+
 
 (Feel free to add your site to this list!)
