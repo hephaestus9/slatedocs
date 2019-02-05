@@ -89,7 +89,7 @@ RUN cd /slate/source_orig && bundle install
 VOLUME /slate/source
 VOLUME /slate/build
 
-CMD cd /slate && cp -nr source_orig/* source && exec bundle exec middleman server --watcher-force-polling
+CMD cd /slate && cp -nr source_orig/* source && cd source && exec bundle exec middleman server --watcher-force-polling
 ```
 
 #### doc-source/.gitignore
