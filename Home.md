@@ -28,3 +28,4 @@ If you're starting out with Slate, you'll probably want to read these articles:
 * [Updating Slate to the newest version](wiki/Updating-Slate)
 * [Internationalization](wiki/Internationalization)
 * [Using Includes](wiki/Using-Includes)
+* [Using Variables](wiki/Using-global-variables)
