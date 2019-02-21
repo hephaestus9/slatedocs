@@ -101,6 +101,6 @@ These are just a few examples of the people using Slate in the wild:
 * [Cartão de TODOS](https://developer.cartaodetodos.com.br/)
 * [OnVoard API](https://api-docs.onvoard.com/)
 * [Movem API](https://docs.movem.co.uk/)
-
+* [Brandfolder API V4 Docs](https://developers.brandfolder.com)
 
 (Feel free to add your site to this list!)
