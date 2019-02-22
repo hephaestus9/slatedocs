@@ -102,5 +102,6 @@ These are just a few examples of the people using Slate in the wild:
 * [OnVoard API](https://api-docs.onvoard.com/)
 * [Movem API](https://docs.movem.co.uk/)
 * [Brandfolder API](https://developers.brandfolder.com)
+* [TransferWise API](https://api-docs.transferwise.com)
 
 (Feel free to add your site to this list!)
