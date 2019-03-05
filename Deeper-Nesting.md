@@ -5,7 +5,8 @@ Out of the box Slate only supports one level of nesting in the table of contents
 
 ## Static Table of Contents
 
-If you are using the static table of content (not tocify), you'll be making changes in `source/layouts/layout.erb`, `source/stylesheets/screen.css.scss`, and `source/javascripts/all_nosearch.js`. 
+If you are using the static table of content (not tocify), you'll be making changes in 
+`source/layouts/layout.erb`, `source/stylesheets/screen.css.scss`, `source/javascripts/all_nosearch.js` and `toc_data.rb`. 
 
 Once you've installed slate open the following file `source/javascripts/all_nosearch.js` 
 
@@ -50,6 +51,15 @@ You'll also need to make a small change in `source/layouts/layout.erb`. The chan
     <% end %>
   </ul>
 <% end %>
+```
+
+Finnally, you should open `lib/toc_data.rb`,look at line 8 and line 18, add the new nest level to it, just like:
+```ruby
+html_doc.css('h1, h2, h3, h4').each do |header|
+```
+and:
+```ruby
+  [4,3,2].each do |header_level|
 ```
 
 ## Legacy (Slate 1.x) Tocify JavaScript Table of Contents
