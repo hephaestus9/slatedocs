@@ -9,7 +9,7 @@ If you're starting out with Slate, you'll probably want to read these articles:
 
 ### The Table of Contents
 
-* [Changing the Logo](wiki/Changing-the-Logo)
+* [Changing the Logo](wiki/Changing-the-Logo-and-adding-Images)
 * [Deeper Nesting](wiki/Deeper-Nesting)
 * [Editing the Links Below the ToC](wiki/External-Links-in-the-ToC)
 * [Using the same Link for Several Menu Items](https://github.com/lord/slate/wiki/Using-the-same-link-for-several-menu-items)
