@@ -44,7 +44,7 @@ You can now see the docs at http://localhost:4567. Whoa! That was fast!
 
 To build a local static copy of your API documentation into the `build` directory, run
 
-    docker run --rm -v $PWD/source:/usr/src/app/source -w /usr/src/app/source slate_app bundle exec middleman build --clean
+    docker run --rm -v $PWD/source:/usr/src/app/source -w /usr/src/app/source -v $PWD/build:/usr/src/app/build slate_app bundle exec middleman build --clean
 
 *Note:* If you've changed the name of the parent folder, change `slate_app` to the new name in this format `<foldername>_app`. Alternatively, find the exact name of your docker image by running `docker ps`.
 
