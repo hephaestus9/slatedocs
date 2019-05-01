@@ -105,5 +105,6 @@ These are just a few examples of the people using Slate in the wild:
 * [TransferWise API](https://api-docs.transferwise.com)
 * [OiMenu API](https://developers.oimenu.com.br/)
 * [DeepAI API](https://deepai.org/api-docs/)
+* [Front API Documentation](https://dev.frontapp.com/)
 
 (Feel free to add your site to this list!)
