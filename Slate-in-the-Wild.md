@@ -106,5 +106,6 @@ These are just a few examples of the people using Slate in the wild:
 * [OiMenu API](https://developers.oimenu.com.br/)
 * [DeepAI API](https://deepai.org/api-docs/)
 * [Front API Documentation](https://dev.frontapp.com/)
+* [Floating Point Group](http://docs.floating.group/)
 
 (Feel free to add your site to this list!)
