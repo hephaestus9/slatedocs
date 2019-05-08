@@ -107,5 +107,6 @@ These are just a few examples of the people using Slate in the wild:
 * [DeepAI API](https://deepai.org/api-docs/)
 * [Front API Documentation](https://dev.frontapp.com/)
 * [Floating Point Group](http://docs.floating.group/)
+* [Platform of Trust](https://docs.oftrust.net)
 
 (Feel free to add your site to this list!)
