@@ -2,7 +2,7 @@ These are just a few examples of the people using Slate in the wild:
 
 * [Yoti Developer Documentation](https://www.yoti.com/developers/documentation/#introduction)
 * [Flute Mail API](https://docs.flutemail.com/)
-* [Ontology Python SDK API](https://nashmiao.github.io/ontology-python-sdk-docs/)
+* [Ontology Python SDK Documentation](https://nashmiao.github.io/ontology-python-sdk-docs/)
 * [SimpleMDM](https://simplemdm.com/docs/api)
 * [Safaricom](https://developer.safaricom.co.ke/docs)
 * [SimpleMDM](https://simplemdm.com/docs/api)
