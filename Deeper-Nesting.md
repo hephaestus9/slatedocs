@@ -53,13 +53,22 @@ You'll also need to make a small change in `source/layouts/layout.erb`. The chan
 <% end %>
 ```
 
-Finnally, you should open `lib/toc_data.rb`,look at line 8 and line 18, add the new nest level to it, just like:
+You'll also need to open `lib/toc_data.rb`,look at line 8 and line 18, add the new nest level to it, just like:
 ```ruby
 html_doc.css('h1, h2, h3, h4').each do |header|
 ```
 and:
 ```ruby
   [4,3,2].each do |header_level|
+```
+
+Finally, you should open `source/javascripts/app/_search.js`,look at line 23 and line 23, add the new nest levels to it, just like:
+```javascript
+$('h1, h2, h3, h4').each(function() {
+```
+and:
+```javascript
+var body = title.nextUntil('h1, h2, h3, h4');
 ```
 
 ## Legacy (Slate 1.x) Tocify JavaScript Table of Contents
