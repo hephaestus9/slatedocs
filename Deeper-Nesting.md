@@ -62,7 +62,7 @@ and:
   [4,3,2].each do |header_level|
 ```
 
-Finally, you should open `source/javascripts/app/_search.js`,look at line 23 and line 23, add the new nest levels to it, just like:
+Finally, you should open `source/javascripts/app/_search.js`, look at line 23 and line 25, add the new nest levels to it, just like:
 ```javascript
 $('h1, h2, h3, h4').each(function() {
 ```
