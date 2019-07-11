@@ -5,4 +5,3 @@ If you want to make more significant changes to Slate's look and feel, feel free
 Some people have done some cool heavy styling on their Slate pages — you can take a look at their Slate sources below.
 
 - [TradeGecko](https://github.com/tradegecko/smaug/)
-- [Aglio](https://github.com/danielgtaylor/aglio)
