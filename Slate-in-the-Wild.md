@@ -110,5 +110,5 @@ These are just a few examples of the people using Slate in the wild:
 * [Floating Point Group](http://docs.floating.group/)
 * [Platform of Trust](https://docs.oftrust.net)
 * [WhatsOnChain API Documentation](https://developers.whatsonchain.com)
-
+* [DataScope API](https://dscope.github.io/docs/)
 (Feel free to add your site to this list!)
