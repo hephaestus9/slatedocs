@@ -132,7 +132,7 @@ and:
   [5,4,3,2].each do |header_level|
 ```
 
-Finally, to support searing in the new nesting levels, you should open `source/javascripts/app/_search.js`, look at line 23 and line 25, add the new nest levels to it, just like:
+Finally, to support searching in the new nesting levels, you should open `source/javascripts/app/_search.js`, look at line 23 and line 25, add the new nest levels to it, just like:
 ```javascript
 $('h1, h2, h3, h4').each(function() {
 ```
