@@ -111,5 +111,6 @@ These are just a few examples of the people using Slate in the wild:
 * [Platform of Trust](https://docs.oftrust.net)
 * [WhatsOnChain API Documentation](https://developers.whatsonchain.com)
 * [DataScope API](https://dscope.github.io/docs/)
+* [CoinDCX](https://coindcx-official.github.io/rest-api/)
 
 (Feel free to add your site to this list!)
