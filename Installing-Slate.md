@@ -2,9 +2,10 @@
 
 You're going to need:
 
- - **Linux or macOS** — Windows may work, but is unsupported. For OSX, see [installing_nokogiri](https://github.com/sparklemotion/nokogiri.org-tutorials/blob/master/content/installing_nokogiri.md) prior to getting started
+ - **Linux or macOS** — Windows may work, but is unsupported. For OSX and Ubuntu see [installing_nokogiri](https://github.com/sparklemotion/nokogiri.org-tutorials/blob/master/content/installing_nokogiri.md) prior to getting started
  - **Ruby, version 2.2.5 or newer**
  - **Bundler** — If Ruby is already installed, but the `bundle` command doesn't work, just run `gem install bundler` in a terminal.
+- **npm 
 
 ### Getting Set Up
 
