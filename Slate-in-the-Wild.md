@@ -1,5 +1,6 @@
 These are just a few examples of the people using Slate in the wild:
 
+* [Bongloy Card Management System API Documentation](https://docs.bongloy.com/issuing/cms)
 * [Yoti Developer Documentation](https://www.yoti.com/developers/documentation/#introduction)
 * [Flute Mail API](https://docs.flutemail.com/)
 * [Ontology Python SDK Documentation](https://nashmiao.github.io/ontology-python-sdk-docs/)
