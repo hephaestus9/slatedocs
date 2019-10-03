@@ -61,6 +61,7 @@ These are just a few examples of the people using Slate in the wild:
 * [Mailblast.io API Documentation](https://api-docs.mailblast.io)
 * [Talkus.io Developer Documentation](http://developer.talkus.io)
 * [Bonsai Developer Documentation](http://docs.bons.ai/)
+* [Revolut Business API](https://revolutdev.github.io/business-api/)
 * [Hunter Developer Documentation](https://hunter.io/api/docs)https://quaderno.io/docs/api/
 * [IP Find Documentation](https://ipfind.co/docs/)
 * [Zwibbler Documentation](http://zwibbler.com/docs)
