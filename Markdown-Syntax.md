@@ -118,10 +118,12 @@ You can use those formatting rules in tables, paragraphs, lists, wherever, altho
 You can add little highlighted warnings and notes with just a little HTML embedded in your markdown document:
 
     <aside class="notice">
-    You must replace `meowmeowmeow` with your personal API key.
+    You must replace meowmeowmeow with your personal API key.
     </aside>
 
 Use `class="notice"` for blue notes, `class="warning"` for red warnings, and `class="success"` for green notes.
+
+Markdown inside HTML blocks won't be processed.
 
 ### Need Help?
 
