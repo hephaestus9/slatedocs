@@ -117,5 +117,6 @@ These are just a few examples of the people using Slate in the wild:
 * [Flow.ai](https://flow.ai/docs/api-docs/)
 * [Rossum](https://api.elis.rossum.ai/docs/)
 * [WiseAlpha](https://developer.wisealpha.com/)
- 
+* [Ipfinder Geolocation API](https://ipfinder.io/docs/)
+
 (Feel free to add your site to this list!)
