@@ -109,6 +109,22 @@ You can use those formatting rules in tables, paragraphs, lists, wherever, altho
     * Bullet
     * List
 
+#### Nested Lists
+
+You can do sub-lists in Markdown by indenting the bullets (or numbers) by 4 spaces: 
+```
+* First
+    1. 1
+    1. 2
+* Second
+    * a
+    * b
+    * c
+```
+
+Will give you:
+<img width="151" alt="Screen Shot 2019-10-31 at 10 09 11" src="https://user-images.githubusercontent.com/1845314/67949489-8f6ea400-fbc6-11e9-8e06-aa4ad6b368ef.png">
+
 ### Links
 
     This is an [internal link](#error-code-definitions), this is an [external link](http://google.com).
