@@ -19,7 +19,8 @@ COPY ./Gemfile /usr/src/app/
 COPY ./Gemfile.lock /usr/src/app/
 WORKDIR /usr/src/app
 
-RUN gem install bundler
+RUN gem install bundler --version '1.3.0'
+RUN bundle update json
 RUN bundle install
 
 COPY . /usr/src/app
