@@ -1,6 +1,6 @@
 Some people have had success with Docker, although it is not officially supported. You'll need to create three files in your Slate directory:
 
-## Ruby 2.5.1
+## Ruby 2.6.5
 
 #### .dockerignore :
 
@@ -19,8 +19,7 @@ COPY ./Gemfile /usr/src/app/
 COPY ./Gemfile.lock /usr/src/app/
 WORKDIR /usr/src/app
 
-RUN gem install bundler --version '1.3.0'
-RUN bundle update json
+RUN gem install bundler --version '2.0.2'
 RUN bundle install
 
 COPY . /usr/src/app
