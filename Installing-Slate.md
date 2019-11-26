@@ -27,7 +27,7 @@ You can now see the docs at http://localhost:4567. Whoa! That was fast!
 
 ### Possible issues
 
-If you struggling from error message like in ([#1003](https://github.com/lord/slate/issues/1003))
+If you struggling from error message like in ([#1003](https://github.com/slatedocs/slate/issues/1003))
 ```
 ...
 autodetect: Could not find a JavaScript runtime
