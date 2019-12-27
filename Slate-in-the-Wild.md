@@ -119,5 +119,6 @@ These are just a few examples of the people using Slate in the wild:
 * [Rossum](https://api.elis.rossum.ai/docs/)
 * [WiseAlpha](https://developer.wisealpha.com/)
 * [Ipfinder Geolocation API](https://ipfinder.io/docs/)
+* [GMO Coin API](https://api.coin.z.com/docs/en/)
 
 (Feel free to add your site to this list!)
