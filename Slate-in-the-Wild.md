@@ -122,5 +122,5 @@ These are just a few examples of the people using Slate in the wild:
 * [Ipfinder Geolocation API](https://ipfinder.io/docs/)
 * [GMO Coin API](https://api.coin.z.com/docs/en/)
 * [Timetastic API](https://timetastic.co.uk/api/)
-
+* [RemoteMe API](https://remoteme.org/public/documentation/sources/)
 (Feel free to add your site to this list!)
