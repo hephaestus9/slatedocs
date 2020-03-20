@@ -49,7 +49,9 @@ To build a local static copy of your API documentation into the `build` director
 
     docker run --rm -v $PWD/source:/usr/src/app/source -w /usr/src/app/source -v $PWD/build:/usr/src/app/build slate_app bundle exec middleman build --clean
 
-*Note:* If you've changed the name of the parent folder, change `slate_app` to the new name in this format `<foldername>_app`. Alternatively, find the exact name of your docker image by running `docker ps`.
+*Note:* If you've changed the name of the parent folder, change `slate_app` to the new name in this format `<foldername>_app`. 
+
+Alternatively, find the exact name of your docker image by running `docker images | grep _app`.
 
 ## Ruby 2.3 Alpine
 
