@@ -1,5 +1,6 @@
 These are just a few examples of the people using Slate in the wild:
 
+* [Skribble Electronic Signature API](https://doc.skribble.com/)
 * [Rammer AI](https://docs.rammer.ai/)
 * [Responsive Invoices REST API Documentation](https://responsiveinvoices.com/rest-api)
 * [Bongloy Card Management System API Documentation](https://docs.bongloy.com/issuing/cms)
