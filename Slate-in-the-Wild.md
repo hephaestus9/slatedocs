@@ -126,5 +126,7 @@ These are just a few examples of the people using Slate in the wild:
 * [RemoteMe API](https://remoteme.org/public/documentation/sources/)
 * [GreyNoise API](https://docs.greynoise.io/)
 * [Attio API Documentation](https://developers.attio.com/)
+* [Happy Scribe API](https://dev.happyscribe.co/)
+
 
 (Feel free to add your site to this list!)
