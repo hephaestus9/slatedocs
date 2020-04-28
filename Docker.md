@@ -12,8 +12,8 @@ Some people have had success with Docker, although it is not officially supporte
 ```dockerfile
 FROM ruby:2.6.5
 
-RUN apt-get update && apt-get install -y nodejs \
-&& apt-get clean && rm -rf /var/lib/apt/lists/*
+RUN apt-get update && apt-get install -y nodejs && \
+    apt-get clean && rm -rf /var/lib/apt/lists/*
 
 COPY ./Gemfile /usr/src/app/
 COPY ./Gemfile.lock /usr/src/app/
@@ -57,17 +57,19 @@ Alternatively, find the exact name of your docker image by running `docker image
 
 #### Dockerfile-Alpine:
 
-    FROM ruby:2.3-alpine
-    COPY . /usr/src/app
-    VOLUME /usr/src/app
-    EXPOSE 4567
+```dockerfile
+FROM ruby:2.3-alpine
+COPY . /usr/src/app
+VOLUME /usr/src/app
+EXPOSE 4567
 
-    WORKDIR /usr/src/app
+WORKDIR /usr/src/app
 
-    RUN apk add --update nodejs g++ make
-    RUN bundle install
+RUN apk add --update nodejs g++ make
+RUN bundle install
 
-    CMD ["bundle", "exec", "middleman", "server", "--watcher-force-polling"]
+CMD ["bundle", "exec", "middleman", "server", "--watcher-force-polling"]
+```
 
 #### docker-compose.yml :
 
@@ -88,7 +90,7 @@ In this setup we don't clone the slate repository and make our changes directly 
 
 #### Dockerfile
 
-```docker
+```dockerfile
 FROM ruby:2.5-alpine
 EXPOSE 4567
 
@@ -102,7 +104,9 @@ RUN cd /slate/source_orig && bundle install
 VOLUME /slate/source
 VOLUME /slate/build
 
-CMD cd /slate && cp -nr source_orig/* source && cd source && exec bundle exec middleman server --watcher-force-polling
+CMD cd /slate && cp -nr source_orig/* source && \
+    cd source && \
+    exec bundle exec middleman server --watcher-force-polling
 ```
 
 #### doc-source/.gitignore
