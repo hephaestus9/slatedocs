@@ -23,7 +23,7 @@ line to point to the theme you want:
       <%= Rouge::Themes::MonokaiSublimeSlate.render(:scope => '.highlight') %>
 ```
 
-A full list of available Rouge themes can be found [here](https://github.com/rouge-ruby/rouge/tree/master/lib/rouge/themes).
+A full list of available builtin Rouge themes can be found [here](https://github.com/rouge-ruby/rouge/tree/master/lib/rouge/themes).
 You can also see the list of available tokens you can style [here](https://github.com/rouge-ruby/rouge/wiki/List-of-tokens).
 
 ## Other People's Slate Theming:
