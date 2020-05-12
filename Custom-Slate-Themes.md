@@ -26,9 +26,9 @@ line to point to the theme you want:
 A full list of available Rouge themes can be found [here](https://github.com/rouge-ruby/rouge/tree/master/lib/rouge/themes).
 You can also see the list of available tokens you can style [here](https://github.com/rouge-ruby/rouge/wiki/List-of-tokens).
 
+## Other People's Slate Theming:
+ 
 Some people have done some cool heavy styling on their Slate pages — you can take a look at their Slate sources
 below:
-
-## Modifying Code Highlighting
 
 - [TradeGecko](https://github.com/tradegecko/smaug/)
