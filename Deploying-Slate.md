@@ -11,6 +11,8 @@ Publishing your API documentation couldn't be more simple.
 
 NOTE: Using the git way, you should not make changes to your repo on github.com for example.
 
+NOTE: For deploying with Travis-CI, please see below.
+
 Done! Your changes should now be live on http://yourusername.github.io/slate, and the main branch should be updated with your edited markdown. Note that if this is your first time publishing Slate, it can sometimes take ten minutes or so before your content is available online. It can also take a moment even if it's not the first time. 
 
 Also, thanks to [X1011](https://github.com/X1011/git-directory-deploy) for the excellent deploy script.
@@ -28,3 +30,9 @@ Another alternative is to use the [middleman-deploy](https://github.com/middlema
 If you're hosting Slate with GitHub Pages, setting up a custom domain name is simple! Just follow the instructions [in GitHub's help center](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/). Note that instead of putting the `CNAME` file in the root directory of your Slate, you should put it in the `source` folder. When Middleman publishes to the `gh-pages` branch, it will copy it to the root folder of that branch.
 
 Unfortunately, the deploy system will overwrite any custom domain name you've set within GitHub settings. This isn't something we can easily fix — it's a quirk with how GitHub handles custom domains. So until they fix it, use the `CNAME` file instead!
+
+### Publishing using Travis-CI
+
+To use Travis-CI to publish slate to your gh-pages, it is recommend to not use the `./deploy.sh` script directly, but rather just do `./deploy.sh --source-only` and then use their [built-in GitHub pages deployment](https://docs.travis-ci.com/user/deployment/pages/). 
+
+Note: If you use `./deploy.sh` directly on Travis-CI, if the script fails for whatever reason, your git credentials may leak.
