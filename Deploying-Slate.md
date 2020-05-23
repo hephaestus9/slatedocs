@@ -35,4 +35,33 @@ Unfortunately, the deploy system will overwrite any custom domain name you've se
 
 To use Travis-CI to publish slate to your gh-pages, it is recommend to not use the `./deploy.sh` script directly, but rather just do `./deploy.sh --source-only` and then use their [built-in GitHub pages deployment](https://docs.travis-ci.com/user/deployment/pages/). 
 
-Note: If you use `./deploy.sh` directly on Travis-CI, if the script fails for whatever reason, your git credentials may leak.
+NOTE: If you use `./deploy.sh` directly on Travis-CI, if the script fails for whatever reason, your git credentials may leak.
+
+An example .travis.yml file for deploying base slate:
+
+```travis
+  
+language: ruby
+cache: bundler
+
+rvm:
+  - 2.5.3
+
+before_install:
+  - gem update --system
+  - gem install bundler
+
+script:
+  - ./deploy.sh --source-only
+
+deploy:
+  provider: pages
+  local_dir: build/
+  skip_cleanup: true
+  # see https://docs.travis-ci.com/user/deployment/pages/#setting-the-github-token
+  github_token: $GITHUB_TOKEN
+  keep_history: true
+  target_branch: gh-pages
+  on:
+    branch: master
+```
