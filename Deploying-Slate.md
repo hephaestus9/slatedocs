@@ -33,7 +33,7 @@ Unfortunately, the deploy system will overwrite any custom domain name you've se
 
 ### Publishing using Travis-CI
 
-To use Travis-CI to publish slate to your gh-pages, it is recommend to not use the `./deploy.sh` script directly, but rather just do `./deploy.sh --source-only` and then use their [built-in GitHub pages deployment](https://docs.travis-ci.com/user/deployment/pages/). 
+To use [Travis-CI](https://travis-ci.com/) to publish slate to your gh-pages, it is recommend to not use the `./deploy.sh` script directly, but rather just do `./deploy.sh --source-only` and then use their [built-in GitHub pages deployment](https://docs.travis-ci.com/user/deployment/pages/). 
 
 NOTE: If you use `./deploy.sh` directly on Travis-CI, if the script fails for whatever reason, your git credentials may leak.
 
