@@ -39,8 +39,7 @@ NOTE: If you use `./deploy.sh` directly on Travis-CI, if the script fails for wh
 
 An example .travis.yml file for deploying base slate:
 
-```travis
-  
+```yaml
 language: ruby
 cache: bundler
 
