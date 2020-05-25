@@ -11,7 +11,7 @@ Publishing your API documentation couldn't be more simple.
 
 NOTE: Using the git way, you should not make changes to your repo on github.com for example.
 
-NOTE: For deploying with Travis-CI, please see below.
+NOTE: For automated publishing using CI, please see below.
 
 Done! Your changes should now be live on http://yourusername.github.io/slate, and the main branch should be updated with your edited markdown. Note that if this is your first time publishing Slate, it can sometimes take ten minutes or so before your content is available online. It can also take a moment even if it's not the first time. 
 
@@ -64,3 +64,7 @@ deploy:
   on:
     branch: master
 ```
+
+### Publishing using GitHub Actions
+
+To use [GitHub Actions](https://github.com/features/actions) to publish slate to your gh-pages, please see how Slate itself [uses it](https://github.com/slatedocs/slate/blob/master/.github/workflows/deploy.yml) to publish its demo site. By default, when you create repository from this one, your site will automatically be set-up to use this workflow.
