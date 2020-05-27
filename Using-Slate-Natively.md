@@ -89,4 +89,4 @@ bundle exec middleman build
 
 ## What Now?
 
-The next step is to [learn how to edit `source/index.md` to change the content of your docs](Markdown-Syntax).
+The next step is to [learn how to edit `source/index.md` to change the content of your docs](Markdown-Syntax). Once your done, you might want to think about [deploying your docs](https://github.com/slatedocs/slate/wiki/Deploying-Slate).
