@@ -34,3 +34,7 @@ Once your done with your work and you wish to shutdown the VM that vagrant creat
 ```bash
 vagrant halt
 ```
+
+## What Now?
+
+The next step is to [learn how to edit `source/index.md` to change the content of your docs](Markdown-Syntax). Once your done, you might want to think about [deploying your docs](https://github.com/slatedocs/slate/wiki/Deploying-Slate).
