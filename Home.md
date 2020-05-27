@@ -2,7 +2,7 @@
 
 If you're starting out with Slate, you'll probably want to read these articles:
 
-* [Installing Slate](wiki/Installing-Slate)
+* [Installing Slate Natively](wiki/Installing-Slate-Natively)
 * [How to Edit Slate Markdown files](wiki/Markdown-Syntax)
 * [Publishing with Slate](wiki/Deploying-Slate) — Either to Github Pages, or your own server.
 * [Github Pages Custom Domain Names with Slate](wiki/Deploying-Slate#custom-domains-with-github)
