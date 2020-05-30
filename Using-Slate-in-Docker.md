@@ -18,7 +18,7 @@ to familiarize yourself with some of them.
 To start a container for slate, run:
 
 ```
-docker run -it -d --rm --name -v $(pwd)/build:/srv/slate/build -v $(pwd)/source:/srv/slate/source slate
+docker run -d --rm --name slate-container -p 4567:4567 -v $(pwd)/build:/srv/slate/build -v $(pwd)/source:/srv/slate/source slate
 ```
 
 and you will be able to access your site at http://localhost:4567.
