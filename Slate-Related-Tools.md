@@ -9,8 +9,8 @@ https://github.com/jmanek/slate_node
 > A port of the documentation generator Slate to node.js, that can optionally be built in the browser.
 
 #### Another Node.JS implementation
-> This time using `markdown-it`, `highlightjs`, `node-sass`, `js-yaml` and `ejs` for templating. Compatible with Slate v2.0 (static TOC etc)
 https://github.com/mermade/shins
+> This time using `markdown-it`, `highlightjs`, `node-sass`, `js-yaml` and `ejs` for templating. Compatible with Slate v2.0 (static TOC etc)
 
 #### Another gulp-based port
 https://github.com/sdelements/node-slate
