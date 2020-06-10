@@ -8,6 +8,7 @@ If you're starting out with Slate, you'll probably want to read these articles:
 * [How to Edit Slate Markdown files](wiki/Markdown-Syntax)
 * [Publishing with Slate](wiki/Deploying-Slate) — Either to Github Pages, or your own server.
 * [Github Pages Custom Domain Names with Slate](wiki/Deploying-Slate#custom-domains-with-github)
+* [FAQ](https://github.com/slatedocs/slate/wiki/Frequently-Asked-Questions)
 
 ### The Table of Contents
 
