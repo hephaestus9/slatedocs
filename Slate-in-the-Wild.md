@@ -1,6 +1,5 @@
 These are just a few examples of the people using Slate in the wild:
 
-* [Airtable Base API](https://airtable.com/api)
 * [Skribble Electronic Signature API](https://doc.skribble.com/)
 * [Rammer AI](https://docs.rammer.ai/)
 * [Responsive Invoices REST API Documentation](https://responsiveinvoices.com/rest-api)
