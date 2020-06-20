@@ -2,17 +2,17 @@ Add the remote, call it `upstream`:
 
     git remote add upstream https://github.com/slatedocs/slate.git
 
-Fetch all the branches of that remote into remote-tracking branches, such as `upstream/master`:
+Fetch all the branches of that remote into remote-tracking branches, such as `upstream/main`:
 
     git fetch upstream
 
-Make sure that you're on _your_ master branch:
+Make sure that you're on _your_ main branch:
 
-    git checkout master
+    git checkout main
 
-Merge _our_ updates into your master branch:
+Merge _our_ updates into your main branch:
 
-    git merge upstream/master
+    git merge upstream/main
 
 Push the updated code to Github:
 
