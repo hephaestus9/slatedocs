@@ -8,6 +8,7 @@ For headers:
     ## Level 2 Header
     ### Level 3 Header
 
+##something
 Note that only level 1 and 2 headers will appear in the table of contents.
 
 ### Paragraph Text
