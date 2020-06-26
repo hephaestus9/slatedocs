@@ -67,4 +67,4 @@ deploy:
 
 ### Publishing using GitHub Actions
 
-To use [GitHub Actions](https://github.com/features/actions) to publish slate to your gh-pages, please see how Slate itself [uses it](https://github.com/slatedocs/slate/blob/master/.github/workflows/deploy.yml) to publish its demo site. By default, when you create repository from this one, your site will automatically be set-up to use this workflow.
+To use [GitHub Actions](https://github.com/features/actions) to publish slate to your gh-pages, please see how Slate itself [uses it](https://github.com/slatedocs/slate/blob/main/.github/workflows/deploy.yml) to publish its demo site. By default, when you create repository from this one, your site will automatically be set-up to use this workflow.
