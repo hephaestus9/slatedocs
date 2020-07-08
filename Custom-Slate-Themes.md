@@ -32,3 +32,4 @@ Some people have done some cool heavy styling on their Slate pages — you can t
 below:
 
 - [TradeGecko](https://github.com/tradegecko/smaug/)
+- [Sean Hill - Dracula Theme](https://github.com/sean-hill/slate-dracula)
