@@ -9,7 +9,6 @@ These are just a few examples of the people using Slate in the wild:
 * [Ontology Python SDK Documentation](https://nashmiao.github.io/ontology-python-sdk-docs/)
 * [SimpleMDM](https://simplemdm.com/docs/api)
 * [Safaricom](https://developer.safaricom.co.ke/docs)
-* [SimpleMDM](https://simplemdm.com/docs/api)
 * [TeloInterview](https://developers.telointerview.com)
 * [SoftBank Robotics ChatBot API](https://softbankroboticstraining.github.io/pepper-chatbot-api/)
 * [SwiftDil AML, KYC, ID Verification and Screening API](https://www.swiftdil.com/docs/api/)
