@@ -25,7 +25,7 @@ These are just a few examples of the people using Slate in the wild:
 * [Emerging Threats API docs](http://apidocs.emergingthreats.net/)
 * [Codestar Framework Docs](http://codestarframework.com/documentation/)
 * [Buddycloud API](http://buddycloud.com/api)
-* [Crafty Clicks API](https://craftyclicks.co.uk/api/)
+* [Fetchify API - previously Crafty Clicks](https://fetchify.com/integrations/)
 * [Paracel API Reference](http://paracel.io/docs/api_reference.html)
 * [Switch Payments Documentation](http://switchpayments.com/docs/) & [API](http://switchpayments.com/developers/)
 * [Whispir.io API](https://whispir.github.io/api)
