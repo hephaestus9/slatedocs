@@ -128,5 +128,6 @@ These are just a few examples of the people using Slate in the wild:
 * [Happy Scribe API](https://dev.happyscribe.co/)
 * [LocalIQ API](https://reachlocal.github.io/api-docs/)
 * [MAT API](https://apidocs.gomat.co)
+* [xChangeApi.com](https://xchangeapi.com/docs)
 
 (Feel free to add your site to this list!)
