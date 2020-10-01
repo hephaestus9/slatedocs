@@ -129,5 +129,6 @@ These are just a few examples of the people using Slate in the wild:
 * [LocalIQ API](https://reachlocal.github.io/api-docs/)
 * [MAT API](https://apidocs.gomat.co)
 * [xChangeApi.com](https://xchangeapi.com/docs)
+* [Teamtailor API](https://docs.teamtailor.com)
 
 (Feel free to add your site to this list!)
