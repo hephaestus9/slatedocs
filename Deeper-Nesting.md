@@ -21,7 +21,6 @@ In the function, you can add more selectors. So if you want three levels of nest
 You'll need to add styling for `.toc-list-h3` (and `.toc-list-h4` etc.) in the file `source/stylesheets/screen.css.scss` The styling is located on line 178 at the time of writing. 
 ```CSS
 .toc-list-h3 {
-  display: none;
   background-color: $nav-subitem-bg;
 }
 
