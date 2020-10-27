@@ -13,6 +13,8 @@ to familiarize yourself with some of them.
 3. `cd slate`
 4. Grab the slate image (`docker pull slatedocs/slate`) or build the docker image for the repository (`docker build . -t slatedocs/slate`).
 
+Note: If you are using the pre-built images for Slate, you may wish to remove all files other than the `source` directory from your repository.
+
 ## Building Slate
 
 To use Docker to just build your site, run:
@@ -30,6 +32,17 @@ docker run --rm --name slate -p 4567:4567 -v $(pwd)/source:/srv/slate/source sla
 ```
 
 and you will be able to access your site at http://localhost:4567 until you stop the running container process.
+
+## Advanced Usage
+
+The provided Docker images contain the full Slate environment and all related files. This means that you may
+provide as much or as little as you want into the container while utilizing defaults. For example, if you only
+wanted to include your markdown sources and not overwrite the default JS, CSS, etc. you may wish to use the
+following mount options:
+
+```
+-v $(pwd)/source/index.html.md:/srv/slate/source/index.html.md -v $(pwd)/source/includes:/srv/slate/source/includes
+```
 
 ## What Now?
 
