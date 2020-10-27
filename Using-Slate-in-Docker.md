@@ -1,4 +1,4 @@
-Provided in the slate repo is a Dockerfile you can use to run slate using [Docker](https://www.docker.com/). Docker is similar to Vagrant in that it provides a reproducible, portable development environment using virtualization, however it does not provide a full VM, rather piggy backing off the host, allowing for a slimmer installation profile than Vagrant / full VMs. However, Docker does come with a number of its own terms, and for beginners, we recommend looking at
+Provided in the slate repo is a Dockerfile you can use to run slate using [Docker](https://www.docker.com/), as well as providing pre-built images on [Docker Hub](https://hub.docker.com/r/slatedocs/slate). Docker is similar to Vagrant in that it provides a reproducible, portable development environment using virtualization, however it does not provide a full VM, rather piggy backing off the host, allowing for a slimmer installation profile than Vagrant / full VMs. However, Docker does come with a number of its own terms, and for beginners, we recommend looking at
 [this Glossary](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/container-docker-introduction/docker-terminology)
 to familiarize yourself with some of them.
 
@@ -11,31 +11,25 @@ to familiarize yourself with some of them.
 1. Fork this repository on Github.
 2. Clone *your forked repository* (not our original one) to your hard drive with `git clone https://github.com/YOURUSERNAME/slate.git`
 3. `cd slate`
-4. Build the docker image for slate: `docker build . -t slate`
+4. Grab the slate image (`docker pull slatedocs/slate`) or build the docker image for the repository (`docker build . -t slatedocs/slate`).
+
+## Building Slate
+
+To use Docker to just build your site, run:
+
+```
+docker run --rm --name slate -v $(pwd)/build:/srv/slate/build -v $(pwd)/source:/srv/slate/source slatedocs/slate
+```
 
 ## Running Slate
 
-To start a container for slate, run:
+If you wish to run the development server for Slate to aid in working on the site, run:
 
 ```
-docker run -d --rm --name slate -p 4567:4567 -v $(pwd)/build:/srv/slate/build -v $(pwd)/source:/srv/slate/source slate
+docker run --rm --name slate -p 4567:4567 -v $(pwd)/source:/srv/slate/source slatedocs/slate serve
 ```
 
-and you will be able to access your site at http://localhost:4567.
-
-To build your sources while the container is running, run:
-
-```
-docker exec -it slate /bin/bash -c "bundle exec middleman build"
-```
-
-## Stopping Slate
-
-To stop the slate container, run:
-
-```bash
-docker stop slate
-```
+and you will be able to access your site at http://localhost:4567 until you stop the running container process.
 
 ## What Now?
 
