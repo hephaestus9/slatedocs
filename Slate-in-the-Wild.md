@@ -130,6 +130,6 @@ These are just a few examples of the people using Slate in the wild:
 * [MAT API](https://apidocs.gomat.co)
 * [xChangeApi.com](https://xchangeapi.com/docs)
 * Teamtailor [Customer API](https://docs.teamtailor.com) & [Partner API](https://partner.teamtailor.com)
-* [Form3](https://api-docs.form3.tech/)
+* [Form3 API](https://api-docs.form3.tech/)
 
 (Feel free to add your site to this list!)
