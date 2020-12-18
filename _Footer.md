@@ -1,1 +1,1 @@
-# Hi are this section avail for public add
+# Hi are this section available for public to add something
