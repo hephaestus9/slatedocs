@@ -4,7 +4,7 @@ This page is for installing and using Slate on the native OS, as opposed to usin
 
 Minimally, you will need the following:
 
-* [Ruby](https://www.ruby-lang.org/en/) >= 2.3
+* [Ruby](https://www.ruby-lang.org/en/) >= 2.5
 * [Bundler](https://bundler.io/)
 * [NodeJS](https://nodejs.org/en/)
 
