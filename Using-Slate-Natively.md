@@ -12,14 +12,24 @@ Please note, only Linux and macOS are officially supported at this time. While s
 
 See below for installation instructions for different OSes / distros.
 
-### Installing Dependencies on Ubuntu 18.04+
+### Installing Dependencies on Linux
 
 Install Ruby, NodeJS, and tools for compiling native ruby gems:
+
+**On Ubuntu 18.04+**
+
 ```bash
 sudo apt install ruby ruby-dev build-essential libffi-dev zlib1g-dev liblzma-dev nodejs patch
 ```
 
-Update RubyGems and install bundler:
+**On Fedora 31+**
+
+```bash
+sudo dnf install @development-tools redhat-rpm-config ruby ruby-devel libffi-devel zlib-devel xz-devel patch nodejs
+```
+
+
+Then, update RubyGems and install bundler:
 
 ```bash
 sudo gem update --system
