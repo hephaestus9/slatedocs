@@ -130,6 +130,6 @@ These are just a few examples of the people using Slate in the wild:
 * [MAT API](https://apidocs.gomat.co)
 * [xChangeApi.com](https://xchangeapi.com/docs)
 * Teamtailor [Customer API](https://docs.teamtailor.com) & [Partner API](https://partner.teamtailor.com)
-* iGrant.io MyData Operator (Sweden) [Customer APIs](https://developer.igrant.io/) 
+* iGrant.io, Sweden [MyData Operator APIs](https://developer.igrant.io/) 
 
 (Feel free to add your site to this list!)
