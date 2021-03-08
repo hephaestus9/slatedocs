@@ -33,40 +33,6 @@ If you're hosting Slate with GitHub Pages, setting up a custom domain name is si
 
 Unfortunately, the deploy system will overwrite any custom domain name you've set within GitHub settings. This isn't something we can easily fix — it's a quirk with how GitHub handles custom domains. So until they fix it, use the `CNAME` file instead!
 
-### Publishing using Travis-CI
-
-To use [Travis-CI](https://travis-ci.com/) to publish slate to your gh-pages, it is recommend to not use the `./deploy.sh` script directly, but rather just do `./deploy.sh --source-only` and then use their [built-in GitHub pages deployment](https://docs.travis-ci.com/user/deployment/pages/). 
-
-NOTE: If you use `./deploy.sh` directly on Travis-CI, if the script fails for whatever reason, your git credentials may leak.
-
-An example .travis.yml file for deploying base slate:
-
-```yaml
-language: ruby
-cache: bundler
-
-rvm:
-  - 2.5.3
-
-before_install:
-  - gem update --system
-  - gem install bundler
-
-script:
-  - ./deploy.sh --source-only
-
-deploy:
-  provider: pages
-  local_dir: build/
-  skip_cleanup: true
-  # see https://docs.travis-ci.com/user/deployment/pages/#setting-the-github-token
-  github_token: $GITHUB_TOKEN
-  keep_history: true
-  target_branch: gh-pages
-  on:
-    branch: master
-```
-
 ### Publishing using GitHub Actions
 
 To use [GitHub Actions](https://github.com/features/actions) to publish slate to your gh-pages, please see how Slate itself [uses it](https://github.com/slatedocs/slate/blob/main/.github/workflows/deploy.yml) to publish its demo site. By default, when you create repository from this one, your site will automatically be set-up to use this workflow.
