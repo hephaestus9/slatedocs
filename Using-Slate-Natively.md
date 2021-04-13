@@ -7,6 +7,7 @@ Minimally, you will need the following:
 * [Ruby](https://www.ruby-lang.org/en/) >= 2.5
 * [Bundler](https://bundler.io/)
 * [NodeJS](https://nodejs.org/en/)
+* [Git](https://git-scm.com/)
 
 Please note, only Linux and macOS are officially supported at this time. While slate should work on Windows, it is unsupported.
 
