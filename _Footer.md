@@ -1,10 +1,5 @@
-<section>
-  
-    ## Slide 1
-    A paragraph with some text and a [link](http://hakim.se).
-    ---
-    ## Slide 2
-    ---
-    ## Slide 3
- 
+<section data-markdown>
+    <script type="text/template">
+        Markdown body of a slide here ...
+    </script>
 </section>
