@@ -27,8 +27,9 @@ If you're starting out with Slate, you'll probably want to read these articles:
 
 ### Customizations
 
- * [Changing the font](wiki/Changing-the-font)
- * [Adding a favicon](wiki/Adding-a-favicon)
+* [Changing the font](wiki/Changing-the-font)
+* [Adding a favicon](wiki/Adding-a-favicon)
+* [Adding meta tags to your site](wiki/Adding-meta-tags-to-your-site)
 
 ### Advanced
 
