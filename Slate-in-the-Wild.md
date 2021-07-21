@@ -135,5 +135,6 @@ These are just a few examples of the people using Slate in the wild:
 * Teamtailor [Customer API](https://docs.teamtailor.com) & [Partner API](https://partner.teamtailor.com)
 * iGrant.io, Sweden [MyData Operator APIs](https://developer.igrant.io/) 
 * [Admetricks API 🇨🇱](http://dev.admetricks.com/)
+* [PartnerWith](https://developers.partnerwith.io)
 
 (Feel free to add your site to this list!)
