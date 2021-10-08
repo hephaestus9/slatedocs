@@ -136,6 +136,6 @@ These are just a few examples of the people using Slate in the wild:
 * iGrant.io, Sweden [MyData Operator APIs](https://developer.igrant.io/) 
 * [Admetricks API 🇨🇱](http://dev.admetricks.com/)
 * [PartnerWith](https://developers.partnerwith.io)
-* [profairs](https://api-docs.profairs.de/)
+* [profairs Trade Show API](https://api-docs.profairs.de/)
 
 (Feel free to add your site to this list!)
