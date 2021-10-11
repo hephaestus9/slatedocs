@@ -20,8 +20,10 @@ Note: If you are using the pre-built images for Slate, you may wish to remove al
 To use Docker to just build your site, run:
 
 ```
-docker run --rm --name slate -v $(pwd)/build:/srv/slate/build -v $(pwd)/source:/srv/slate/source slatedocs/slate
+docker run --rm --name slate -v $(pwd)/build:/srv/slate/build -v $(pwd)/source:/srv/slate/source slatedocs/slate build
 ```
+
+_Note_: You may omit the final `build` argument and get the same result. By default, if given no command, the Dockerfile will run `build`.
 
 ## Running Slate
 
