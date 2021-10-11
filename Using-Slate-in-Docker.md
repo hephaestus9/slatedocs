@@ -23,6 +23,8 @@ To use Docker to just build your site, run:
 docker run --rm --name slate -v $(pwd)/build:/srv/slate/build -v $(pwd)/source:/srv/slate/source slatedocs/slate build
 ```
 
+After this command completes, you should see the built artifacts for your site in the `$(pwd)/build` directory, which you can then statically serve for your website.
+
 _Note_: You may omit the final `build` argument and get the same result. By default, if given no command, the Dockerfile will run `build`.
 
 ## Running Slate
