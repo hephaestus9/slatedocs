@@ -1,5 +1,6 @@
 These are just a few examples of the people using Slate in the wild:
 
+* [Kanban Tool (Developer's Guide)](https://kanbantool.com/developer/)
 * [Airtm Payments API (design by Patrick Reinbold)](https://airtm.bitbucket.io)
 * [RoadGoat Cities API](https://developer.roadgoat.com/)
 * [Mark43 for Developers](https://developers.mark43.com/)
