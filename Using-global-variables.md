@@ -32,3 +32,11 @@ An example for using variables could look like this:
 ```
 Hello you want to access <%= config[:endpoint] %> !
 ```
+
+## Environment variables
+
+To access environment variables, `ENV` can be used in `config.rb`. For example for a environment variable called `MY_VAR`:
+```
+set :my_var, ENV["MY_VAR"]
+config[:my_var]
+```
