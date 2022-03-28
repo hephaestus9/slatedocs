@@ -139,5 +139,6 @@ These are just a few examples of the people using Slate in the wild:
 * [PartnerWith](https://developers.partnerwith.io)
 * [profairs Trade Show API](https://api-docs.profairs.de/)
 * [Sellinall](https://developer.sellinall.com/)
+* [Conotoxia Pay API Documentation](https://docs.conotoxia.com/payments/online-shops)
 
 (Feel free to add your site to this list!)
