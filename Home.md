@@ -1,3 +1,5 @@
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://standwithukraine.pp.ua)
+
 ### Getting Started
 
 If you're starting out with Slate, you'll probably want to read these articles:
