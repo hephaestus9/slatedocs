@@ -141,5 +141,6 @@ These are just a few examples of the people using Slate in the wild:
 * [Sellinall](https://developer.sellinall.com/)
 * [Conotoxia Pay API Documentation](https://docs.conotoxia.com/payments/online-shops)
 * [Eqivo Telephony API](https://eqivo.org/)
+* [Telq Telecom API](https://api-doc.telqtele.com/#introduction)
 
 (Feel free to add your site to this list!)
