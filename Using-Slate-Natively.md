@@ -36,6 +36,18 @@ Then, update RubyGems and install bundler:
 sudo gem update --system
 sudo gem install bundler
 ```
+**Note*
+
+If you get the following error
+
+`ERROR: Your RubyGems was installed trough APT, and upgrading it through RubyGems itself is unsupported.` 
+
+try the following commands instead:
+```bash
+sudo apt-get update -y
+sudo apt-get install -y bundler
+```
+
 
 ### Installing Dependencies on macOS
 
