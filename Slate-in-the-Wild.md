@@ -142,5 +142,6 @@ These are just a few examples of the people using Slate in the wild:
 * [Conotoxia Pay API Documentation](https://docs.conotoxia.com/payments/online-shops)
 * [Eqivo Telephony API](https://eqivo.org/)
 * [Telq Telecom API](https://api-doc.telqtele.com/#introduction)
+* [Mixpeek File Search API](https://docs.mixpeek.com/)
 
 (Feel free to add your site to this list!)
