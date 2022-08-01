@@ -1,1 +1,1 @@
-This API is Develop by peers exchange![peers exchange logo](https://www.peexit.com/assets/images/logo-petit.png)
+This API is Develop by peers exchange (SONNY AYRTON FUTURE BEST PROGRAMMER (![peers exchange logo](https://www.peexit.com/assets/images/logo-petit.png)
