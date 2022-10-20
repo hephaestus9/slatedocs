@@ -143,5 +143,6 @@ These are just a few examples of the people using Slate in the wild:
 * [Eqivo Telephony API](https://eqivo.org/)
 * [Telq Telecom API](https://api-doc.telqtele.com/#introduction)
 * [Mixpeek File Search API](https://docs.mixpeek.com/)
+* [Focsec VPN Detection API Documentation](https://docs.focsec.com/)
 
 (Feel free to add your site to this list!)
