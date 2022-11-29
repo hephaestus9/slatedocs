@@ -4,7 +4,7 @@ This page is for installing and using Slate on the native OS, as opposed to usin
 
 Minimally, you will need the following:
 
-* [Ruby](https://www.ruby-lang.org/en/) >= 2.5
+* [Ruby](https://www.ruby-lang.org/en/) >= 2.6
 * [Bundler](https://bundler.io/)
 * [NodeJS](https://nodejs.org/en/)
 * [Git](https://git-scm.com/)
@@ -17,7 +17,7 @@ See below for installation instructions for different OSes / distros.
 
 Install Ruby, NodeJS, and tools for compiling native ruby gems:
 
-**On Ubuntu 18.04+**
+**On Ubuntu 20.04+**
 
 ```bash
 sudo apt install ruby ruby-dev build-essential libffi-dev zlib1g-dev liblzma-dev nodejs patch
